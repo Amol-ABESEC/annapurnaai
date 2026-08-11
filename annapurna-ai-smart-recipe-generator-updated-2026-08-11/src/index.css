@@ -1,0 +1,82 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Merriweather", "Playfair Display", Georgia, serif;
+  --font-sans: "Merriweather", "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --font-merriweather: "Merriweather", Georgia, serif;
+  --color-warm-dark: #120f0e;
+  --color-warm-card: #1b1614;
+  --color-warm-border: #2a221f;
+  --color-annapurna-orange: #ff6224;
+}
+
+body {
+  font-family: var(--font-merriweather);
+  background-color: #120f0e;
+  color: #f0e6df;
+  text-align: left;
+  line-height: 1.6;
+}
+
+@layer utilities {
+  .bg-grid-pattern {
+    background-size: 24px 24px;
+    background-image: radial-gradient(circle, rgba(240, 230, 223, 0.05) 1px, transparent 1px);
+  }
+  
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  .custom-scrollbar {
+    -webkit-overflow-scrolling: touch;
+  }
+  .custom-scrollbar::-webkit-scrollbar {
+    height: 4px;
+    width: 4px;
+  }
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #2a221f;
+    border-radius: 4px;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #3c302b;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    opacity: 0.4;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.7;
+    transform: scale(1.05);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-pulseGlow {
+  animation: pulseGlow 6s ease-in-out infinite;
+}
