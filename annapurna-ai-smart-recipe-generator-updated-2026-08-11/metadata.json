@@ -1,6 +1,0 @@
-{
-  "name": "Smart Recipe Generator & Quick-Comm Bridge",
-  "description": "Bridge kitchen inventory with instant quick-commerce delivery (Blinkit, Zepto, Instamart) and context-aware AI cooking assistant.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
