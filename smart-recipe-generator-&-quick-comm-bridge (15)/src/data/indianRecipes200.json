@@ -1,0 +1,5780 @@
+[
+  {
+    "id": "REC_001",
+    "title": "Sarson Ka Saag",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 30,
+    "cook_time_mins": 60,
+    "servings": 4,
+    "tags": [
+      "Winter Special",
+      "Traditional"
+    ],
+    "ingredients": [
+      "Mustard Greens/Sarson (500g)",
+      "Bathua leaves (150g)",
+      "Spinach (250g)",
+      "Maize flour/Makki Atta (2 tbsp)",
+      "Ghee (3 tbsp)",
+      "Garlic & Ginger (2 tbsp)",
+      "Green Chilies (4)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Sarson Ka Saag.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_002",
+    "title": "Butter Chicken (Murgh Makhani)",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 25,
+    "cook_time_mins": 35,
+    "servings": 4,
+    "tags": [
+      "Iconic",
+      "Rich"
+    ],
+    "ingredients": [
+      "Chicken thighs (600g)",
+      "Yogurt (1/2 cup)",
+      "Butter (4 tbsp)",
+      "Heavy Cream (1/4 cup)",
+      "Tomato Puree (2 cups)",
+      "Cashew paste (2 tbsp)",
+      "Kasuri Methi (1 tbsp)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Butter Chicken (Murgh Makhani).",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_003",
+    "title": "Amritsari Chole Bhature",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 40,
+    "servings": 4,
+    "tags": [
+      "Street Classic",
+      "Spicy"
+    ],
+    "ingredients": [
+      "Kabuli Chana (2 cups)",
+      "Maida (2 cups)",
+      "Yogurt (2 tbsp)",
+      "Chole Masala (2 tbsp)",
+      "Anardana (1 tsp)",
+      "Onions & Tomatoes (1 cup each)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Amritsari Chole Bhature.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_004",
+    "title": "Dal Makhani",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 20,
+    "cook_time_mins": 90,
+    "servings": 5,
+    "tags": [
+      "Slow Cooked",
+      "Creamy"
+    ],
+    "ingredients": [
+      "Black Urad Dal (1 cup)",
+      "Rajma (1/4 cup)",
+      "Butter (5 tbsp)",
+      "Fresh Cream (3 tbsp)",
+      "Tomato Puree (1 cup)",
+      "Garlic paste (1.5 tbsp)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Dal Makhani.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_005",
+    "title": "Paneer Tikka",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 20,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Tandoori",
+      "Starter"
+    ],
+    "ingredients": [
+      "Paneer cubes (300g)",
+      "Capsicum & Onion (1 cup)",
+      "Hung Curd (1/2 cup)",
+      "Mustard Oil (2 tbsp)",
+      "Besan (1 tbsp)",
+      "Chaat Masala (1 tsp)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Paneer Tikka.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_006",
+    "title": "Rajma Chawal",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 15,
+    "cook_time_mins": 35,
+    "servings": 4,
+    "tags": [
+      "Comfort Food",
+      "Home Style"
+    ],
+    "ingredients": [
+      "Red Rajma (1.5 cups)",
+      "Onions (2)",
+      "Tomatoes (3)",
+      "Ghee (2 tbsp)",
+      "Rajma Masala (1.5 tbsp)",
+      "Cumin seeds (1 tsp)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Rajma Chawal.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_007",
+    "title": "Kadhi Pakora",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 25,
+    "cook_time_mins": 45,
+    "servings": 4,
+    "tags": [
+      "Tangy",
+      "Comfort"
+    ],
+    "ingredients": [
+      "Sour Dahi (1.5 cups)",
+      "Besan (1 cup)",
+      "Onions (1)",
+      "Ajwain (1/2 tsp)",
+      "Mustard seeds (1 tsp)",
+      "Ghee (2 tbsp)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Kadhi Pakora.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_008",
+    "title": "Baingan Bharta",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 25,
+    "servings": 3,
+    "tags": [
+      "Smoky",
+      "Rustic"
+    ],
+    "ingredients": [
+      "Large Baingan (500g)",
+      "Onions (2)",
+      "Tomatoes (2)",
+      "Green Chilies (3)",
+      "Mustard Oil (2 tbsp)",
+      "Garlic (6 cloves)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Baingan Bharta.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_009",
+    "title": "Pindi Chole",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 35,
+    "servings": 4,
+    "tags": [
+      "Rawalpindi Special",
+      "Dry Spiced"
+    ],
+    "ingredients": [
+      "Kabuli Chana (2 cups)",
+      "Anardana powder (1.5 tbsp)",
+      "Coriander powder (2 tbsp)",
+      "Ghee (3 tbsp)",
+      "Ginger juliennes"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Pindi Chole.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_010",
+    "title": "Tandoori Chicken",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 25,
+    "cook_time_mins": 30,
+    "servings": 4,
+    "tags": [
+      "Charcoal Grilled",
+      "Classic"
+    ],
+    "ingredients": [
+      "Chicken quarters (4 pieces)",
+      "Hung curd (1 cup)",
+      "Kashmiri Chili (2 tbsp)",
+      "Mustard Oil (3 tbsp)",
+      "Ginger-Garlic paste (2 tbsp)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Tandoori Chicken.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_011",
+    "title": "Malai Kofta",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 30,
+    "cook_time_mins": 30,
+    "servings": 4,
+    "tags": [
+      "Rich Gravy",
+      "Festive"
+    ],
+    "ingredients": [
+      "Paneer (200g)",
+      "Boiled Potatoes (2)",
+      "Cornflour (2 tbsp)",
+      "Tomatoes (4)",
+      "Fresh Cream (1/4 cup)",
+      "Cashew paste (2 tbsp)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Malai Kofta.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_012",
+    "title": "Palak Paneer",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Spinach Gravy",
+      "Healthy"
+    ],
+    "ingredients": [
+      "Fresh Palak (500g)",
+      "Paneer cubes (250g)",
+      "Garlic (8 cloves)",
+      "Onion (1)",
+      "Ghee (2 tbsp)",
+      "Cream (2 tbsp)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Palak Paneer.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_013",
+    "title": "Amritsari Fish Fry",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Crispy Starter",
+      "Dhabha Style"
+    ],
+    "ingredients": [
+      "Fish fillets (500g)",
+      "Besan (4 tbsp)",
+      "Ajwain (1 tsp)",
+      "Ginger-Garlic (1 tbsp)",
+      "Lemon juice (2 tbsp)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Amritsari Fish Fry.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_014",
+    "title": "Aloo Gobi Matar",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Home Style",
+      "Dry Sabzi"
+    ],
+    "ingredients": [
+      "Cauliflower (1 head)",
+      "Potatoes (2)",
+      "Green Peas (1/2 cup)",
+      "Mustard Oil (2 tbsp)",
+      "Ginger (1 tbsp)",
+      "Garam Masala (1 tsp)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Aloo Gobi Matar.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_015",
+    "title": "Phool Gobhi Paratha",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 20,
+    "servings": 3,
+    "tags": [
+      "Breakfast Classic",
+      "Stuffed Bread"
+    ],
+    "ingredients": [
+      "Grated Cauliflower (2 cups)",
+      "Wheat Atta (2 cups)",
+      "Green Chilies (2)",
+      "Ginger (1 tbsp)",
+      "Ajwain (1/2 tsp)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Phool Gobhi Paratha.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_016",
+    "title": "Methi Matar Malai",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": [
+      "Mild Gravy",
+      "Creamy"
+    ],
+    "ingredients": [
+      "Fresh Methi (2 cups)",
+      "Green Peas (1 cup)",
+      "Fresh Cream (1/2 cup)",
+      "Cashew paste (2 tbsp)",
+      "Onion paste (1/2 cup)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Methi Matar Malai.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_017",
+    "title": "Chicken Tikka Masala",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 25,
+    "cook_time_mins": 30,
+    "servings": 4,
+    "tags": [
+      "Global Favorite",
+      "Rich Gravy"
+    ],
+    "ingredients": [
+      "Chicken breasts (500g)",
+      "Yogurt (1/2 cup)",
+      "Tomato Puree (1.5 cups)",
+      "Heavy Cream (3 tbsp)",
+      "Tikka Spices (2 tbsp)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Chicken Tikka Masala.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_018",
+    "title": "Shahi Paneer",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 15,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Royal Dish",
+      "Rich"
+    ],
+    "ingredients": [
+      "Paneer (300g)",
+      "Onion-Cashew paste (1 cup)",
+      "Tomato Puree (1 cup)",
+      "Heavy Cream (3 tbsp)",
+      "Saffron milk (2 tbsp)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Shahi Paneer.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_019",
+    "title": "Bhatura",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 10,
+    "servings": 4,
+    "tags": [
+      "Puffed Bread",
+      "Party Special"
+    ],
+    "ingredients": [
+      "Maida (3 cups)",
+      "Sooji (2 tbsp)",
+      "Yogurt (3 tbsp)",
+      "Baking Powder (1/2 tsp)",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Bhatura.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_020",
+    "title": "Pinni",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 25,
+    "cook_time_mins": 30,
+    "servings": 10,
+    "tags": [
+      "Winter Sweet",
+      "Traditional"
+    ],
+    "ingredients": [
+      "Wheat Atta (2 cups)",
+      "Desi Ghee (1 cup)",
+      "Edible Gond (1/4 cup)",
+      "Jaggery/Sugar (1 cup)",
+      "Almonds & Pistas"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Pinni.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_021",
+    "title": "Sarson Fish Curry",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 25,
+    "servings": 3,
+    "tags": [
+      "Mustard Gravy",
+      "Authentic"
+    ],
+    "ingredients": [
+      "Rohu Fish (500g)",
+      "Yellow Mustard Paste (3 tbsp)",
+      "Garlic (8 cloves)",
+      "Mustard Oil (3 tbsp)",
+      "Turmeric"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Sarson Fish Curry.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_022",
+    "title": "Gur Para",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 25,
+    "servings": 8,
+    "tags": [
+      "Festive Sweet",
+      "Crisp"
+    ],
+    "ingredients": [
+      "Wheat Flour (2 cups)",
+      "Desi Ghee (3 tbsp)",
+      "Jaggery/Gur (1 cup)",
+      "Fennel Saunf (1 tsp)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Gur Para.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_023",
+    "title": "Murgh Malai Tikka",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 20,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Melt in Mouth",
+      "Mild Starter"
+    ],
+    "ingredients": [
+      "Chicken cubes (400g)",
+      "Cream Cheese (3 tbsp)",
+      "Fresh Cream (2 tbsp)",
+      "Cashew paste (1 tbsp)",
+      "White Pepper (1/2 tsp)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Murgh Malai Tikka.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_024",
+    "title": "Sweet Lassi",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 0,
+    "servings": 2,
+    "tags": [
+      "Refreshing Drink",
+      "Summer Classic"
+    ],
+    "ingredients": [
+      "Thick Dahi (2 cups)",
+      "Sugar (4 tbsp)",
+      "Cardamom (1/4 tsp)",
+      "Rose Water (1 tsp)",
+      "Malai (2 tbsp)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Sweet Lassi.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_025",
+    "title": "Kheema Matar Punjabi",
+    "cuisine": "Punjabi",
+    "region": "Punjab",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 15,
+    "cook_time_mins": 30,
+    "servings": 4,
+    "tags": [
+      "Minced Meat",
+      "Spicy"
+    ],
+    "ingredients": [
+      "Mutton Kheema (500g)",
+      "Green Peas (1 cup)",
+      "Onions (2)",
+      "Tomatoes (2)",
+      "Ghee (3 tbsp)",
+      "Garam Masala (1.5 tsp)"
+    ],
+    "instructions": [
+      "Prepare fresh ingredients for Kheema Matar Punjabi.",
+      "Heat oil or ghee in heavy vessel and saut\u00e9 aromatic whole spices and onion garlic paste.",
+      "Add main vegetables or proteins along with fresh spice blend.",
+      "Simmer gently until cooked through and flavors harmonize.",
+      "Finish with fresh herbs, ghee, or cream and serve hot."
+    ]
+  },
+  {
+    "id": "REC_026",
+    "title": "Mutton Korma",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 50,
+    "servings": 5,
+    "tags": [
+      "Rich",
+      "Royal",
+      "Festive"
+    ],
+    "ingredients": [
+      "Mutton (750g)",
+      "Whisked Yogurt (1 cup)",
+      "Onions birista (3)",
+      "Ghee (4 tbsp)",
+      "Kewra water (1 tsp)",
+      "Nut paste (2 tbsp)"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Mutton Korma with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_027",
+    "title": "Chicken Biryani Mughlai",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 30,
+    "cook_time_mins": 45,
+    "servings": 5,
+    "tags": [
+      "Dum Biryani",
+      "Royal"
+    ],
+    "ingredients": [
+      "Basmati Rice (3 cups)",
+      "Chicken (800g)",
+      "Saffron milk",
+      "Ghee (4 tbsp)",
+      "Fried Onions",
+      "Biryani Spices"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Chicken Biryani Mughlai with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_028",
+    "title": "Shahi Tukda",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Royal Dessert",
+      "Sweet"
+    ],
+    "ingredients": [
+      "Bread slices (6)",
+      "Rabri/Thickened milk (2 cups)",
+      "Saffron",
+      "Cardamom",
+      "Sugar syrup",
+      "Ghee for deep frying"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Shahi Tukda with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_029",
+    "title": "Galouti Kebab",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 30,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Lucknow Special",
+      "Melt in Mouth"
+    ],
+    "ingredients": [
+      "Fine Minced Lamb (500g)",
+      "Raw Papaya paste (2 tbsp)",
+      "Roasted Chana Powder (3 tbsp)",
+      "Potli Masala",
+      "Ghee"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Galouti Kebab with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_030",
+    "title": "Kakori Kebab",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 30,
+    "cook_time_mins": 15,
+    "servings": 4,
+    "tags": [
+      "Silk Texture",
+      "Awadhi"
+    ],
+    "ingredients": [
+      "Minced Mutton (500g)",
+      "Mutton Fat (100g)",
+      "Raw Papaya (2 tbsp)",
+      "Kewra Water",
+      "Rose petals",
+      "Shahi spices"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Kakori Kebab with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_031",
+    "title": "Murgh Musallam",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 40,
+    "cook_time_mins": 60,
+    "servings": 6,
+    "tags": [
+      "Whole Roasted Chicken",
+      "Festive"
+    ],
+    "ingredients": [
+      "Whole Chicken (1.2kg)",
+      "Minced Meat stuffing (200g)",
+      "Boiled Eggs (2)",
+      "Onion-Cashew Gravy (2 cups)",
+      "Saffron"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Murgh Musallam with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_032",
+    "title": "Nihari Gosht",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 25,
+    "cook_time_mins": 120,
+    "servings": 5,
+    "tags": [
+      "Slow Cooked Stew",
+      "Breakfast"
+    ],
+    "ingredients": [
+      "Mutton Shank/Nalli (1kg)",
+      "Nihari Masala (3 tbsp)",
+      "Atta Slurry (3 tbsp)",
+      "Ghee (1/2 cup)",
+      "Ginger juliennes"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Nihari Gosht with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_033",
+    "title": "Pasanda Curry",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 25,
+    "cook_time_mins": 40,
+    "servings": 4,
+    "tags": [
+      "Flattened Meat",
+      "Creamy"
+    ],
+    "ingredients": [
+      "Mutton Pasanday steaks (600g)",
+      "Yogurt (1 cup)",
+      "Almond paste (3 tbsp)",
+      "Fried Onion paste",
+      "Ghee"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Pasanda Curry with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_034",
+    "title": "Sheermal",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": [
+      "Saffron Flatbread",
+      "Awadhi"
+    ],
+    "ingredients": [
+      "Maida (3 cups)",
+      "Warm Milk (1 cup)",
+      "Ghee (1/2 cup)",
+      "Saffron threads",
+      "Cardamom powder",
+      "Sugar (2 tbsp)"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Sheermal with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_035",
+    "title": "Rogan Josh Mughlai",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 50,
+    "servings": 4,
+    "tags": [
+      "Aromatic Curry",
+      "Rich"
+    ],
+    "ingredients": [
+      "Lamb shoulder (600g)",
+      "Kashmiri Chili (2 tbsp)",
+      "Fennel Powder (1 tbsp)",
+      "Dry Ginger Saunth (1 tsp)",
+      "Ghee"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Rogan Josh Mughlai with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_036",
+    "title": "Boti Kebab",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Mutton Bites",
+      "Tandoori"
+    ],
+    "ingredients": [
+      "Mutton cubes (500g)",
+      "Raw Papaya (1 tbsp)",
+      "Yogurt (1/2 cup)",
+      "Kachri powder (1 tsp)",
+      "Mustard Oil"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Boti Kebab with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_037",
+    "title": "Reshmi Kebab",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 20,
+    "cook_time_mins": 15,
+    "servings": 4,
+    "tags": [
+      "Silky Chicken",
+      "Mild"
+    ],
+    "ingredients": [
+      "Chicken mince/breast (500g)",
+      "Cashew paste (2 tbsp)",
+      "Fresh Cream (2 tbsp)",
+      "Egg white (1)",
+      "White Pepper"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Reshmi Kebab with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_038",
+    "title": "Mughlai Paratha",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 25,
+    "cook_time_mins": 20,
+    "servings": 3,
+    "tags": [
+      "Stuffed Egg Flatbread"
+    ],
+    "ingredients": [
+      "Maida dough (2 cups)",
+      "Eggs (3 beaten)",
+      "Minced Chicken (1 cup)",
+      "Onions & Chilies",
+      "Ghee"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Mughlai Paratha with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_039",
+    "title": "Chicken Jahangiri",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 40,
+    "servings": 4,
+    "tags": [
+      "Thick Dark Gravy"
+    ],
+    "ingredients": [
+      "Chicken (750g)",
+      "Fried Onion paste (1 cup)",
+      "Tomato Puree (1/2 cup)",
+      "Cream (3 tbsp)",
+      "Khoya/Mawa (2 tbsp)"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Chicken Jahangiri with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_040",
+    "title": "Navratan Korma",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": [
+      "9 Gem Curry",
+      "Sweet & Rich"
+    ],
+    "ingredients": [
+      "Mixed Veggies & Paneer (2 cups)",
+      "Cashew-Poppy paste (1/2 cup)",
+      "Dry Fruits & Pineapple",
+      "Cream",
+      "Saffron"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Navratan Korma with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_041",
+    "title": "Mutton Yakhni Pulao",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 45,
+    "servings": 5,
+    "tags": [
+      "Aromatic Rice",
+      "Yakhni Broth"
+    ],
+    "ingredients": [
+      "Basmati Rice (2.5 cups)",
+      "Mutton (600g)",
+      "Yakhni Broth",
+      "Whole Spices Potli",
+      "Fried Onions",
+      "Ghee"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Mutton Yakhni Pulao with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_042",
+    "title": "Dum Aloo Mughlai",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 30,
+    "servings": 4,
+    "tags": [
+      "Stuffed Potatoes",
+      "Rich Gravy"
+    ],
+    "ingredients": [
+      "Baby Potatoes (500g)",
+      "Paneer stuffing",
+      "Cashew Gravy (1.5 cups)",
+      "Cream",
+      "Kewra water"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Dum Aloo Mughlai with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_043",
+    "title": "Paneer Pasanda",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 25,
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": [
+      "Stuffed Paneer Sandwich"
+    ],
+    "ingredients": [
+      "Paneer slabs (400g)",
+      "Nuts & Khoya stuffing",
+      "Tomato-Cashew Gravy",
+      "Kasuri Methi",
+      "Cream"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Paneer Pasanda with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_044",
+    "title": "Zafrani Pulao",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": [
+      "Saffron Sweet Pulao"
+    ],
+    "ingredients": [
+      "Basmati Rice (2 cups)",
+      "Saffron milk (1/2 cup)",
+      "Ghee (3 tbsp)",
+      "Cashews & Raisins",
+      "Cardamom & Cloves"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Zafrani Pulao with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_045",
+    "title": "Murgh Handi Mughlai",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 35,
+    "servings": 4,
+    "tags": [
+      "Claypot Chicken"
+    ],
+    "ingredients": [
+      "Chicken boneless (600g)",
+      "Yogurt (1/2 cup)",
+      "Onion-Tomato Gravy",
+      "Butter & Cream",
+      "Kasuri Methi"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Murgh Handi Mughlai with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_046",
+    "title": "Phirni Mughlai",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 30,
+    "servings": 5,
+    "tags": [
+      "Ground Rice Pudding"
+    ],
+    "ingredients": [
+      "Coarse Ground Rice (1/4 cup)",
+      "Full Cream Milk (1 liter)",
+      "Sugar (1/2 cup)",
+      "Saffron & Cardamom",
+      "Pistachios"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Phirni Mughlai with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_047",
+    "title": "Badami Gosht",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 45,
+    "servings": 4,
+    "tags": [
+      "Almond Mutton Curry"
+    ],
+    "ingredients": [
+      "Mutton (600g)",
+      "Almond paste (1/2 cup)",
+      "Yogurt (1/2 cup)",
+      "Ghee (4 tbsp)",
+      "Whole Spices"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Badami Gosht with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_048",
+    "title": "Shahi Phirni Mango",
+    "cuisine": "Mughlai",
+    "region": "Delhi/Awadh",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 30,
+    "servings": 5,
+    "tags": [
+      "Mango Rice Pudding"
+    ],
+    "ingredients": [
+      "Ground Rice (1/4 cup)",
+      "Milk (1 liter)",
+      "Mango Pulp (1 cup)",
+      "Sugar (1/3 cup)",
+      "Cardamom"
+    ],
+    "instructions": [
+      "Marinate main ingredients for Shahi Phirni Mango with traditional royal spice aromatics.",
+      "Sear or roast over high heat to seal juices.",
+      "Simmer slowly in a rich nut, yogurt, or tomato broth under dum lid.",
+      "Finish with kewra water, saffron milk, and fresh ghee.",
+      "Serve hot with authentic Mughlai breads or saffron rice."
+    ]
+  },
+  {
+    "id": "REC_049",
+    "title": "Kerala Beef Fry (Ularthiyathu)",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 25,
+    "cook_time_mins": 40,
+    "servings": 4,
+    "tags": [
+      "Spicy",
+      "Coconut Oil"
+    ],
+    "ingredients": [
+      "Beef cubes (500g)",
+      "Coconut bites Thenga Kothu (1/4 cup)",
+      "Shallots (1 cup)",
+      "Coconut oil (3 tbsp)",
+      "Curry leaves",
+      "Fennel powder"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Kerala Beef Fry (Ularthiyathu).",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_050",
+    "title": "Appam with Vegetable Stew",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": [
+      "Coconut Milk",
+      "Breakfast"
+    ],
+    "ingredients": [
+      "Raw Rice batter (2 cups)",
+      "Coconut Milk (2 cups)",
+      "Mixed Veggies (2 cups)",
+      "Green Chilies (3)",
+      "Coconut oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Appam with Vegetable Stew.",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_051",
+    "title": "Malabar Parotta",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 30,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Flaky Layered Bread"
+    ],
+    "ingredients": [
+      "Maida (3 cups)",
+      "Oil/Ghee (4 tbsp)",
+      "Sugar (1 tsp)",
+      "Warm Water"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Malabar Parotta.",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_052",
+    "title": "Kerala Fish Curry (Meen Curry)",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Kudampuli Tangy",
+      "Claypot"
+    ],
+    "ingredients": [
+      "Kingfish/Seer fish (500g)",
+      "Kudampuli/Malabar Tamarind (3 pieces)",
+      "Shallots (1 cup)",
+      "Coconut oil (2 tbsp)",
+      "Chili powder"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Kerala Fish Curry (Meen Curry).",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_053",
+    "title": "Karimeen Pollichathu",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 25,
+    "servings": 2,
+    "tags": [
+      "Banana Leaf Wrap",
+      "Pearlspot"
+    ],
+    "ingredients": [
+      "Karimeen/Pearlspot fish (2 whole)",
+      "Banana leaves (2)",
+      "Shallot Masala paste (1 cup)",
+      "Coconut oil (3 tbsp)",
+      "Lemon juice"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Karimeen Pollichathu.",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_054",
+    "title": "Erissery",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Pumpkin Coconut",
+      "Sadya Item"
+    ],
+    "ingredients": [
+      "Yellow Pumpkin/Mathanga (300g)",
+      "Grated Coconut (1.5 cups)",
+      "Roasted coconut for topping",
+      "Cumin seeds",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Erissery.",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_055",
+    "title": "Avial",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 20,
+    "cook_time_mins": 15,
+    "servings": 5,
+    "tags": [
+      "Mixed Vegetables",
+      "Sadya Essential"
+    ],
+    "ingredients": [
+      "Drumstick, Raw Banana, Elephant Yam, Carrots (3 cups)",
+      "Grated Coconut (1 cup)",
+      "Yogurt (1/2 cup)",
+      "Coconut oil (2 tbsp)"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Avial.",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_056",
+    "title": "Puttu and Kadala Curry",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 30,
+    "servings": 4,
+    "tags": [
+      "Classic Breakfast"
+    ],
+    "ingredients": [
+      "Rice Flour Puttu podi (2 cups)",
+      "Grated Coconut (1 cup)",
+      "Black Chickpeas/Kadala (1.5 cups)",
+      "Coconut gravy paste"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Puttu and Kadala Curry.",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_057",
+    "title": "Palada Payasam",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 10,
+    "cook_time_mins": 45,
+    "servings": 6,
+    "tags": [
+      "Pink Milk Sweet",
+      "Festive"
+    ],
+    "ingredients": [
+      "Rice Ada (1/2 cup)",
+      "Full Cream Milk (1.5 liters)",
+      "Sugar (1 cup)",
+      "Ghee (2 tbsp)",
+      "Cardamom"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Palada Payasam.",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_058",
+    "title": "Nadan Kozhi Curry",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 30,
+    "servings": 4,
+    "tags": [
+      "Kerala Chicken Curry"
+    ],
+    "ingredients": [
+      "Chicken (750g)",
+      "Coconut paste (1/2 cup)",
+      "Shallots (1 cup)",
+      "Curry leaves",
+      "Coconut oil (3 tbsp)"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Nadan Kozhi Curry.",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_059",
+    "title": "Kerala Beef Roast",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 35,
+    "servings": 4,
+    "tags": [
+      "Thick Onion Gravy"
+    ],
+    "ingredients": [
+      "Beef (600g)",
+      "Sliced Onions (2 cups)",
+      "Tomato (1)",
+      "Fennel & Black Pepper",
+      "Coconut oil"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Kerala Beef Roast.",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_060",
+    "title": "Duck Mappas",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 25,
+    "cook_time_mins": 45,
+    "servings": 4,
+    "tags": [
+      "Kuttanad Style",
+      "Coconut Milk"
+    ],
+    "ingredients": [
+      "Duck meat (800g)",
+      "Thin & Thick Coconut Milk (3 cups)",
+      "Potato (1)",
+      "Garam Masala",
+      "Shallots"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Duck Mappas.",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_061",
+    "title": "Kerala Sambar",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": [
+      "Roasted Coconut Sambar"
+    ],
+    "ingredients": [
+      "Toor Dal (1 cup)",
+      "Mixed Veggies (2 cups)",
+      "Varutharutha Coconut Masala (4 tbsp)",
+      "Tamarind pulp",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Kerala Sambar.",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_062",
+    "title": "Malabar Chicken Biryani",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 30,
+    "cook_time_mins": 40,
+    "servings": 5,
+    "tags": [
+      "Kaima Rice",
+      "Thalassery"
+    ],
+    "ingredients": [
+      "Kaima/Jeerakasala Rice (3 cups)",
+      "Chicken (800g)",
+      "Ghee (4 tbsp)",
+      "Cashews & Raisins",
+      "Biryani Spices"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Malabar Chicken Biryani.",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_063",
+    "title": "Pazham Pori",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 15,
+    "servings": 4,
+    "tags": [
+      "Banana Fritters",
+      "Tea Snack"
+    ],
+    "ingredients": [
+      "Ripe Nendran Bananas (3)",
+      "Maida/Rice Flour batter (1 cup)",
+      "Sugar & Turmeric",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Pazham Pori.",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_064",
+    "title": "Olan",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 15,
+    "servings": 4,
+    "tags": [
+      "Ash Gourd & Cowpeas"
+    ],
+    "ingredients": [
+      "Ash Gourd/Kumbalanga (2 cups)",
+      "Red Cowpeas/Vanpayar (1/2 cup)",
+      "Thick Coconut Milk (1 cup)",
+      "Coconut oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Olan.",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_065",
+    "title": "Kalan",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Raw Banana Yogurt"
+    ],
+    "ingredients": [
+      "Raw Banana/Nendrakaya (2 cups)",
+      "Thick Sour Yogurt (2 cups)",
+      "Grated Coconut paste",
+      "Fenugreek seeds",
+      "Ghee"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Kalan.",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_066",
+    "title": "Pulissery",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 15,
+    "servings": 4,
+    "tags": [
+      "Ripe Mango Yogurt Curry"
+    ],
+    "ingredients": [
+      "Ripe Ranganath Bananas/Mangoes (2)",
+      "Sour Yogurt (1.5 cups)",
+      "Coconut-Cumin paste",
+      "Mustard tadka"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Pulissery.",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_067",
+    "title": "Chemmeen Roast",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 15,
+    "cook_time_mins": 20,
+    "servings": 3,
+    "tags": [
+      "Spicy Prawn Roast"
+    ],
+    "ingredients": [
+      "Medium Prawns (400g cleaned)",
+      "Shallots (1 cup)",
+      "Tomato (1)",
+      "Black Pepper & Fennel",
+      "Coconut slices"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Chemmeen Roast.",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_068",
+    "title": "Thalassery Biryani Mutton",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 30,
+    "cook_time_mins": 45,
+    "servings": 5,
+    "tags": [
+      "Northern Kerala Dum"
+    ],
+    "ingredients": [
+      "Jeerakasala Rice (3 cups)",
+      "Mutton (750g)",
+      "Ghee fried onions",
+      "Mint & Coriander",
+      "Garam Masala"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Thalassery Biryani Mutton.",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_069",
+    "title": "Fish Molee",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 15,
+    "cook_time_mins": 25,
+    "servings": 3,
+    "tags": [
+      "Mild Coconut Fish"
+    ],
+    "ingredients": [
+      "Fish Steaks (500g)",
+      "Coconut Milk (2 cups)",
+      "Green Chilies & Ginger",
+      "Curry leaves",
+      "Coconut oil"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Fish Molee.",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_070",
+    "title": "Unnakaya",
+    "cuisine": "Kerala",
+    "region": "Kerala",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Stuffed Banana Sweet"
+    ],
+    "ingredients": [
+      "Mashed Steamed Nendran Banana (3)",
+      "Grated Coconut & Sugar filling",
+      "Cashews & Raisins",
+      "Ghee for frying"
+    ],
+    "instructions": [
+      "Heat coconut oil in an authentic heavy pan or clay pot for Unnakaya.",
+      "Saut\u00e9 fresh shallots, green chilies, ginger, and curry leaves.",
+      "Stir in freshly ground spice blends or roasted coconut paste.",
+      "Add main vegetables or meat with coconut milk/water and simmer gently.",
+      "Finish with fresh coconut oil drizzle and crisp curry leaves."
+    ]
+  },
+  {
+    "id": "REC_071",
+    "title": "Dal Baati Churma",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 40,
+    "cook_time_mins": 45,
+    "servings": 4,
+    "tags": [
+      "Heritage",
+      "Ghee-Rich"
+    ],
+    "ingredients": [
+      "Coarse Wheat Flour (2 cups)",
+      "Panchmel Dal (1 cup)",
+      "Pure Ghee (1 cup)",
+      "Jaggery (1/2 cup)",
+      "Hing & Panch Phoron"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Dal Baati Churma.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_072",
+    "title": "Laal Maas",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 25,
+    "cook_time_mins": 50,
+    "servings": 4,
+    "tags": [
+      "Mathania Chili",
+      "Fiery Meat"
+    ],
+    "ingredients": [
+      "Mutton (750g)",
+      "Mathania Red Chilies (15 soaked)",
+      "Mustard Oil (4 tbsp)",
+      "Yogurt (1/2 cup)",
+      "Garlic (10 cloves)"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Laal Maas.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_073",
+    "title": "Gatte Ki Sabzi",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": [
+      "Gram Flour Dumplings"
+    ],
+    "ingredients": [
+      "Besan (1.5 cups)",
+      "Yogurt Gravy (1.5 cups)",
+      "Ajwain (1/2 tsp)",
+      "Hing (1/4 tsp)",
+      "Ghee (2 tbsp)"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Gatte Ki Sabzi.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_074",
+    "title": "Ker Sangri",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 15,
+    "cook_time_mins": 30,
+    "servings": 4,
+    "tags": [
+      "Desert Berries & Beans"
+    ],
+    "ingredients": [
+      "Dried Ker Berries (1/2 cup)",
+      "Dried Sangri Beans (1 cup)",
+      "Mustard Oil (3 tbsp)",
+      "Amchur (1 tbsp)",
+      "Spices"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Ker Sangri.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_075",
+    "title": "Pyaaz Kachori",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 25,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Spicy Onion Pastry"
+    ],
+    "ingredients": [
+      "Maida dough (2 cups)",
+      "Spiced Onion filling (1.5 cups)",
+      "Fennel & Coriander seeds",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Pyaaz Kachori.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_076",
+    "title": "Mirchi Vada",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 4,
+    "tags": [
+      "Jodhpur Chili Fritter"
+    ],
+    "ingredients": [
+      "Large Bhavnagri Chilies (6)",
+      "Spiced Mashed Potato stuffing",
+      "Besan Batter (1 cup)",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Mirchi Vada.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_077",
+    "title": "Ghevar",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 30,
+    "cook_time_mins": 30,
+    "servings": 6,
+    "tags": [
+      "Honeycomb Disc Sweet"
+    ],
+    "ingredients": [
+      "Maida (2 cups)",
+      "Ghee (1/2 cup)",
+      "Cold Ice Water",
+      "Sugar Syrup (1 cup)",
+      "Rabri topping",
+      "Pistachios"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Ghevar.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_078",
+    "title": "Mohanthal",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 25,
+    "servings": 8,
+    "tags": [
+      "Besan Fudge Sweet"
+    ],
+    "ingredients": [
+      "Coarse Besan (2 cups)",
+      "Ghee (1 cup)",
+      "Milk (4 tbsp)",
+      "Sugar Syrup (1 cup)",
+      "Cardamom & Saffron"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Mohanthal.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_079",
+    "title": "Papad Ki Sabzi",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10,
+    "servings": 3,
+    "tags": [
+      "Quick Yogurt Curry"
+    ],
+    "ingredients": [
+      "Roasted Bikaner Papads (4)",
+      "Curd/Dahi (1 cup)",
+      "Ghee (2 tbsp)",
+      "Hing & Cumin",
+      "Chili powder"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Papad Ki Sabzi.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_080",
+    "title": "Safed Maas",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 45,
+    "servings": 4,
+    "tags": [
+      "White Royal Curry"
+    ],
+    "ingredients": [
+      "Mutton (600g)",
+      "Cashew & Poppy Paste (1/2 cup)",
+      "Yogurt (1/2 cup)",
+      "Fresh Cream (2 tbsp)",
+      "White Pepper"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Safed Maas.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_081",
+    "title": "Rajasthani Kadhi",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Spicy Tangy Buttermilk"
+    ],
+    "ingredients": [
+      "Sour Curd (1.5 cups)",
+      "Besan (2 tbsp)",
+      "Ghee (2 tbsp)",
+      "Hing & Red Chili",
+      "Fenugreek seeds"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Rajasthani Kadhi.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_082",
+    "title": "Bajra Roti with Lahsun Chutney",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Pearl Millet Bread"
+    ],
+    "ingredients": [
+      "Bajra Flour (2 cups)",
+      "Garlic Red Chili Chutney (1/2 cup)",
+      "Fresh White Butter (3 tbsp)"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Bajra Roti with Lahsun Chutney.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_083",
+    "title": "Mawa Kachori",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 30,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Sweet Stuffed Kachori"
+    ],
+    "ingredients": [
+      "Maida (2 cups)",
+      "Khoya/Mawa filling (1 cup)",
+      "Nuts & Cardamom",
+      "Sugar Syrup bath"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Mawa Kachori.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_084",
+    "title": "Pittod Ki Sabzi",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Steamed Besan Cakes"
+    ],
+    "ingredients": [
+      "Besan (1 cup)",
+      "Yogurt Gravy (1.5 cups)",
+      "Mustard & Cumin seeds",
+      "Ghee (2 tbsp)"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Pittod Ki Sabzi.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_085",
+    "title": "Raab",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 5,
+    "cook_time_mins": 15,
+    "servings": 2,
+    "tags": [
+      "Millet Warm Soup"
+    ],
+    "ingredients": [
+      "Bajra or Wheat flour (2 tbsp)",
+      "Buttermilk/Water (2 cups)",
+      "Ghee (1 tbsp)",
+      "Jaggery & Ginger powder"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Raab.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_086",
+    "title": "Gujia Rajasthani",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 25,
+    "cook_time_mins": 20,
+    "servings": 6,
+    "tags": [
+      "Festive Sweet Dumpling"
+    ],
+    "ingredients": [
+      "Maida (2 cups)",
+      "Mawa & Coconut filling (1 cup)",
+      "Nuts & Sugar",
+      "Ghee for frying"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Gujia Rajasthani.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_087",
+    "title": "Panchkuta",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 30,
+    "servings": 4,
+    "tags": [
+      "5 Desert Veggies"
+    ],
+    "ingredients": [
+      "Ker, Sangri, Kumatiya, Gunda, Amchur (2 cups total)",
+      "Mustard Oil (3 tbsp)",
+      "Spices"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Panchkuta.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_088",
+    "title": "Bajra Khichdi",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 15,
+    "cook_time_mins": 35,
+    "servings": 4,
+    "tags": [
+      "Millet & Lentil Mash"
+    ],
+    "ingredients": [
+      "Crushed Bajra (1 cup)",
+      "Yellow Moong Dal (1/2 cup)",
+      "Desi Ghee (4 tbsp)",
+      "Hing & Cumin"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Bajra Khichdi.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_089",
+    "title": "Kalakand Alwar",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 15,
+    "cook_time_mins": 25,
+    "servings": 6,
+    "tags": [
+      "Granular Milk Sweet"
+    ],
+    "ingredients": [
+      "Fresh Chenna/Paneer (2 cups)",
+      "Condensed Milk/Sugar (1 cup)",
+      "Cardamom",
+      "Pistachios"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Kalakand Alwar.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_090",
+    "title": "Sev Tamatar Sabzi",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10,
+    "servings": 3,
+    "tags": [
+      "Tomato Crispy Sev"
+    ],
+    "ingredients": [
+      "Spicy Thick Sev (1 cup)",
+      "Ripe Tomatoes (3 chopped)",
+      "Ghee (2 tbsp)",
+      "Hing, Cumin & Spices"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Sev Tamatar Sabzi.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_091",
+    "title": "Churma Ladoo",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 20,
+    "servings": 6,
+    "tags": [
+      "Sweet Wheat Balls"
+    ],
+    "ingredients": [
+      "Coarse Wheat Flour (2 cups)",
+      "Desi Ghee (3/4 cup)",
+      "Powdered Jaggery (1 cup)",
+      "Cardamom powder"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Churma Ladoo.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_092",
+    "title": "Govind Gatta",
+    "cuisine": "Rajasthani",
+    "region": "Rajasthan",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 25,
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": [
+      "Stuffed Besan Gatta"
+    ],
+    "ingredients": [
+      "Besan (1.5 cups)",
+      "Mawa & Nuts stuffing",
+      "Rich Yogurt Gravy (1.5 cups)",
+      "Ghee"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Govind Gatta.",
+      "Saut\u00e9 spices in pure ghee or mustard oil over medium heat.",
+      "Incorporate main ingredients (besan, roasted berries, or spiced meats).",
+      "Simmer slowly until flavors fuse together completely.",
+      "Garnish with ghee, fresh herbs, or nuts before serving."
+    ]
+  },
+  {
+    "id": "REC_093",
+    "title": "Savoury Shorshe Ilish",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Mustard Base",
+      "Fish Specialty"
+    ],
+    "ingredients": [
+      "Hilsa/Ilish Fish (4 steaks)",
+      "Yellow & Black Mustard Paste (3 tbsp)",
+      "Mustard Oil (4 tbsp)",
+      "Green Chilies (6)",
+      "Kalonji (1/2 tsp)"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Savoury Shorshe Ilish.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_094",
+    "title": "Chingri Malai Curry",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 15,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Gold Prawn Curry",
+      "Coconut Milk"
+    ],
+    "ingredients": [
+      "Golda Chingri/Jumbo Prawns (400g)",
+      "Thick Coconut Milk (1.5 cups)",
+      "Ghee (2 tbsp)",
+      "Garam Masala",
+      "Green Chilies"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Chingri Malai Curry.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_095",
+    "title": "Kosha Mangsho",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 25,
+    "cook_time_mins": 60,
+    "servings": 4,
+    "tags": [
+      "Slow Dark Mutton Roast"
+    ],
+    "ingredients": [
+      "Mutton (750g)",
+      "Sliced Onions (3 cups)",
+      "Mustard Oil (4 tbsp)",
+      "Yogurt (1/2 cup)",
+      "Sugar (1 tsp for color)"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Kosha Mangsho.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_096",
+    "title": "Mishti Doi",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 15,
+    "cook_time_mins": 240,
+    "servings": 5,
+    "tags": [
+      "Caramel Baked Yogurt"
+    ],
+    "ingredients": [
+      "Full Cream Milk (1 liter)",
+      "Caramelized Sugar (3/4 cup)",
+      "Yogurt Culture (2 tbsp)"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Mishti Doi.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_097",
+    "title": "Rasgulla",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 25,
+    "cook_time_mins": 20,
+    "servings": 6,
+    "tags": [
+      "Spongy Cottage Cheese Balls"
+    ],
+    "ingredients": [
+      "Fresh Chenna (200g)",
+      "Cardamom Water",
+      "Thin Sugar Syrup (3 cups)"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Rasgulla.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_098",
+    "title": "Aloo Posto",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Poppy Seed Potato"
+    ],
+    "ingredients": [
+      "Potatoes diced (3 medium)",
+      "Poppy Seeds/Posto paste (4 tbsp)",
+      "Mustard Oil (2 tbsp)",
+      "Green Chilies (4)",
+      "Kalo Jeere"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Aloo Posto.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_099",
+    "title": "Machher Jhol",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 20,
+    "servings": 3,
+    "tags": [
+      "Light Fish Curry"
+    ],
+    "ingredients": [
+      "Rohu/Katla Fish (4 pieces)",
+      "Potatoes & Eggplant",
+      "Mustard Oil (2 tbsp)",
+      "Kalo Jeere",
+      "Turmeric & Cumin"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Machher Jhol.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_100",
+    "title": "Luchi Alur Dom",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": [
+      "Fried Bread & Potato"
+    ],
+    "ingredients": [
+      "Maida dough (2 cups)",
+      "Baby Potatoes (500g)",
+      "Mustard Oil (3 tbsp)",
+      "Ginger paste",
+      "Tomato & Spices"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Luchi Alur Dom.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_101",
+    "title": "Dhokar Dalna",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 25,
+    "cook_time_mins": 30,
+    "servings": 4,
+    "tags": [
+      "Lentil Cake Curry"
+    ],
+    "ingredients": [
+      "Chana Dal paste (1.5 cups)",
+      "Potato cubes (1 cup)",
+      "Ginger-Cumin paste",
+      "Mustard Oil",
+      "Ghee & Garam Masala"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Dhokar Dalna.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_102",
+    "title": "Chhanar Dalna",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": [
+      "Fresh Paneer Balls Curry"
+    ],
+    "ingredients": [
+      "Fresh Homemade Chenna (250g)",
+      "Boiled Potatoes (2)",
+      "Tomato-Ginger paste",
+      "Ghee",
+      "Garam Masala"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Chhanar Dalna.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_103",
+    "title": "Shukto",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 25,
+    "servings": 5,
+    "tags": [
+      "Bitter Sweet Mixed Veg"
+    ],
+    "ingredients": [
+      "Bitter Gourd, Raw Banana, Drumstick, Sweet Potato (3 cups)",
+      "Mustard-Radhuni paste",
+      "Milk (1/2 cup)",
+      "Ghee"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Shukto.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_104",
+    "title": "Kolkata Biryani Mutton",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 30,
+    "cook_time_mins": 50,
+    "servings": 5,
+    "tags": [
+      "Potato & Egg Biryani"
+    ],
+    "ingredients": [
+      "Basmati Rice (3 cups)",
+      "Mutton (750g)",
+      "Large Boiled Potatoes (3)",
+      "Boiled Eggs (4)",
+      "Meetha Attar & Kewra"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Kolkata Biryani Mutton.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_105",
+    "title": "Sandesh",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 15,
+    "servings": 6,
+    "tags": [
+      "Fresh Chenna Sweet"
+    ],
+    "ingredients": [
+      "Fresh Milk Chenna (250g)",
+      "Powdered Sugar or Nolen Gur (1/2 cup)",
+      "Cardamom powder",
+      "Pistachios"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Sandesh.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_106",
+    "title": "Patishapta",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Rice Crepe Roll"
+    ],
+    "ingredients": [
+      "Rice Flour & Maida Batter (1.5 cups)",
+      "Kheer/Coconut & Jaggery filling (1 cup)",
+      "Ghee for crepes"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Patishapta.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_107",
+    "title": "Cholar Dal",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": [
+      "Bengal Gram with Coconut"
+    ],
+    "ingredients": [
+      "Chana Dal (1.5 cups)",
+      "Coconut fried bites (1/4 cup)",
+      "Ghee (2 tbsp)",
+      "Raisins",
+      "Whole Spices"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Cholar Dal.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_108",
+    "title": "Mochar Ghonto",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 30,
+    "cook_time_mins": 30,
+    "servings": 4,
+    "tags": [
+      "Banana Flower Stir Fry"
+    ],
+    "ingredients": [
+      "Cleaned Banana Flower/Mocha (2 cups)",
+      "Potato cubes (1)",
+      "Grated Coconut (1/2 cup)",
+      "Ghee & Spices"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Mochar Ghonto.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_109",
+    "title": "Radhaballabhi",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 25,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Urad Dal Stuffed Luchi"
+    ],
+    "ingredients": [
+      "Maida dough (2 cups)",
+      "Spiced Urad Dal filling (1 cup)",
+      "Fennel & Asafoetida",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Radhaballabhi.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_110",
+    "title": "Pabda Macher Jhol",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Delicate Fish Curry"
+    ],
+    "ingredients": [
+      "Pabda Fish (4 whole)",
+      "Kalo Jeere & Bori",
+      "Mustard Oil (2 tbsp)",
+      "Green Chilies",
+      "Turmeric"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Pabda Macher Jhol.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_111",
+    "title": "Basanti Pulao",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": [
+      "Sweet Yellow Rice"
+    ],
+    "ingredients": [
+      "Gobindobhog Rice (2 cups)",
+      "Ghee (3 tbsp)",
+      "Turmeric & Saffron",
+      "Cashews & Raisins",
+      "Sugar (3 tbsp)"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Basanti Pulao.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_112",
+    "title": "Labra",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 25,
+    "servings": 5,
+    "tags": [
+      "Panchphoron Mixed Veg"
+    ],
+    "ingredients": [
+      "Mixed Pumpkin, Eggplant, Spinach, Potato (4 cups)",
+      "Panch Phoron (1 tsp)",
+      "Mustard Oil (2 tbsp)",
+      "Ghee"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Labra.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_113",
+    "title": "Fish Kabiraji",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Net Egg Fried Fish"
+    ],
+    "ingredients": [
+      "Bhetki Fish fillets (4)",
+      "Egg Batter Net coating",
+      "Breadcrumbs",
+      "Mustard Oil for frying"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Fish Kabiraji.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_114",
+    "title": "Nolen Gurer Payesh",
+    "cuisine": "Bengali",
+    "region": "West Bengal",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 10,
+    "cook_time_mins": 40,
+    "servings": 5,
+    "tags": [
+      "Date Palm Jaggery Pudding"
+    ],
+    "ingredients": [
+      "Gobindobhog Rice (1/3 cup)",
+      "Full Cream Milk (1.5 liters)",
+      "Nolen Gur/Date Jaggery (3/4 cup)",
+      "Bay leaf"
+    ],
+    "instructions": [
+      "Prepare traditional ingredients for Nolen Gurer Payesh.",
+      "Heat pure mustard oil until smoking, tempering with kalo jeere or radhuni.",
+      "Add main fish, lentils, or vegetables with ground spice pastes.",
+      "Simmer under cover on low heat until cooked to perfection.",
+      "Finish with a spoonful of ghee and fresh green chilies."
+    ]
+  },
+  {
+    "id": "REC_115",
+    "title": "Masala Dosa",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 15,
+    "servings": 4,
+    "tags": [
+      "Crispy Crepe",
+      "Classic"
+    ],
+    "ingredients": [
+      "Fermented Rice-Urad Batter (3 cups)",
+      "Spiced Potato Masala (2 cups)",
+      "Ghee/Oil (3 tbsp)",
+      "Coconut Chutney"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Masala Dosa.",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_116",
+    "title": "Hyderabadi Mutton Biryani",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 35,
+    "cook_time_mins": 50,
+    "servings": 5,
+    "tags": [
+      "Kachhi Dum Biryani"
+    ],
+    "ingredients": [
+      "Basmati Rice (3 cups)",
+      "Marinated Mutton (800g)",
+      "Fried Onions Birista",
+      "Saffron Milk",
+      "Ghee & Mint"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Hyderabadi Mutton Biryani.",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_117",
+    "title": "Chettinad Chicken",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 30,
+    "servings": 4,
+    "tags": [
+      "Spicy Roasted Spices"
+    ],
+    "ingredients": [
+      "Chicken (750g)",
+      "Fresh Chettinad Spice Paste (4 tbsp)",
+      "Shallots (1 cup)",
+      "Curry leaves",
+      "Gingelly oil"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Chettinad Chicken.",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_118",
+    "title": "Mysore Pak",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 10,
+    "cook_time_mins": 20,
+    "servings": 8,
+    "tags": [
+      "Melt in Mouth Fudge"
+    ],
+    "ingredients": [
+      "Besan (1 cup)",
+      "Pure Ghee (2 cups)",
+      "Sugar Syrup (1.5 cups)"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Mysore Pak.",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_119",
+    "title": "Idli Sambar",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 4,
+    "tags": [
+      "Steamed Rice Cake"
+    ],
+    "ingredients": [
+      "Fermented Idli Batter (3 cups)",
+      "Toor Dal Sambar (2 cups)",
+      "Coconut Chutney (1 cup)"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Idli Sambar.",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_120",
+    "title": "Medu Vada",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 15,
+    "servings": 4,
+    "tags": [
+      "Crispy Lentil Donut"
+    ],
+    "ingredients": [
+      "Whole White Urad Dal (1.5 cups soaked)",
+      "Crushed Black Pepper",
+      "Curry leaves & Ginger",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Medu Vada.",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_121",
+    "title": "Uttapam",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10,
+    "servings": 3,
+    "tags": [
+      "Thick Pancake"
+    ],
+    "ingredients": [
+      "Dosa Batter (2 cups)",
+      "Finely chopped Onions, Tomatoes & Chilies (1 cup)",
+      "Ghee/Oil"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Uttapam.",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_122",
+    "title": "Andhra Gongura Mutton",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 25,
+    "cook_time_mins": 45,
+    "servings": 4,
+    "tags": [
+      "Sorrel Leaves Tangy"
+    ],
+    "ingredients": [
+      "Mutton (750g)",
+      "Fresh Gongura Leaves (2 cups)",
+      "Andhra Spice Paste",
+      "Gingelly Oil",
+      "Garlic"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Andhra Gongura Mutton.",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_123",
+    "title": "Bisibelebath",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 30,
+    "servings": 4,
+    "tags": [
+      "Karnataka Spiced Rice"
+    ],
+    "ingredients": [
+      "Rice & Toor Dal (2 cups)",
+      "Bisibelebath Masala (3 tbsp)",
+      "Mixed Vegetables (1.5 cups)",
+      "Tamarind",
+      "Ghee & Cashews"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Bisibelebath.",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_124",
+    "title": "Rava Dosa",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Lacy Instant Dosa"
+    ],
+    "ingredients": [
+      "Semolina/Rava (1 cup)",
+      "Rice Flour (1 cup)",
+      "Cumin & Black Pepper",
+      "Green Chilies & Ginger",
+      "Oil"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Rava Dosa.",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_125",
+    "title": "Lemon Rice (Chitranna)",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Tempered Rice"
+    ],
+    "ingredients": [
+      "Cooked Rice (3 cups)",
+      "Fresh Lemon Juice (3 tbsp)",
+      "Mustard, Peanuts, Chana Dal tadka",
+      "Curry leaves & Turmeric"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Lemon Rice (Chitranna).",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_126",
+    "title": "Tamarind Rice (Puliyogare)",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 15,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Tangy Temple Rice"
+    ],
+    "ingredients": [
+      "Cooked Rice (4 cups)",
+      "Tangy Puliyogare Paste (1/2 cup)",
+      "Roasted Peanuts & Sesame oil",
+      "Curry leaves"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Tamarind Rice (Puliyogare).",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_127",
+    "title": "Curd Rice (Thayir Sadam)",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 5,
+    "cook_time_mins": 10,
+    "servings": 3,
+    "tags": [
+      "Cooling Comfort"
+    ],
+    "ingredients": [
+      "Soft Cooked Rice (2 cups)",
+      "Fresh Thick Curd (1.5 cups)",
+      "Mustard, Ginger, Curry leaves tadka",
+      "Pomegranate seeds"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Curd Rice (Thayir Sadam).",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_128",
+    "title": "Chicken 65",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 4,
+    "tags": [
+      "Spicy Deep Fried Starter"
+    ],
+    "ingredients": [
+      "Boneless Chicken bites (500g)",
+      "Curd & Red Chili Batter",
+      "Curry leaves & Garlic fry",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Chicken 65.",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_129",
+    "title": "Andhra Royyala Veepudu",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 15,
+    "cook_time_mins": 20,
+    "servings": 3,
+    "tags": [
+      "Spicy Prawn Fry"
+    ],
+    "ingredients": [
+      "Medium Prawns (500g)",
+      "Guntur Chili Powder (2 tbsp)",
+      "Onions & Ginger-Garlic",
+      "Curry leaves",
+      "Gingelly oil"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Andhra Royyala Veepudu.",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_130",
+    "title": "Mangalorean Chicken Ghee Roast",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Hard",
+    "prep_time_mins": 25,
+    "cook_time_mins": 30,
+    "servings": 4,
+    "tags": [
+      "Byadgi Chili Ghee"
+    ],
+    "ingredients": [
+      "Chicken (750g)",
+      "Roasted Byadgi Chili Paste (4 tbsp)",
+      "Desi Ghee (1/2 cup)",
+      "Tamarind pulp",
+      "Yogurt"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Mangalorean Chicken Ghee Roast.",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_131",
+    "title": "Mysore Masala Dosa",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 15,
+    "servings": 4,
+    "tags": [
+      "Red Chutney Crisp Dosa"
+    ],
+    "ingredients": [
+      "Dosa Batter (3 cups)",
+      "Spicy Garlic Red Chutney spread",
+      "Potato Palya",
+      "Butter/Ghee"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Mysore Masala Dosa.",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_132",
+    "title": "Kothu Parotta",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Shredded Bread Stir Fry"
+    ],
+    "ingredients": [
+      "Shredded Parottas (3)",
+      "Chicken Curry Salna (1 cup)",
+      "Eggs (2)",
+      "Onions & Tomatoes",
+      "Oil"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Kothu Parotta.",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_133",
+    "title": "Karaikudi Fish Curry",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 15,
+    "cook_time_mins": 20,
+    "servings": 3,
+    "tags": [
+      "Chettinad Tamarind Fish"
+    ],
+    "ingredients": [
+      "Fish Steaks (500g)",
+      "Small Shallots (1 cup)",
+      "Tamarind Pulp (1/2 cup)",
+      "Chettinad Fish Masala",
+      "Gingelly oil"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Karaikudi Fish Curry.",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_134",
+    "title": "Ven Pongal",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Rice Lentil Mash"
+    ],
+    "ingredients": [
+      "Raw Rice (1 cup)",
+      "Yellow Moong Dal (1/2 cup)",
+      "Ghee (4 tbsp)",
+      "Black Pepper & Cumin tadka",
+      "Cashews"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Ven Pongal.",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_135",
+    "title": "Pesarattu",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Green Gram Dosa"
+    ],
+    "ingredients": [
+      "Whole Green Moong Dal batter (2 cups)",
+      "Ginger & Green Chilies",
+      "Upma filling",
+      "Ghee"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Pesarattu.",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_136",
+    "title": "Obbattu / Holige",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 25,
+    "cook_time_mins": 20,
+    "servings": 5,
+    "tags": [
+      "Sweet Lentil Stuffed Bread"
+    ],
+    "ingredients": [
+      "Maida Dough (2 cups)",
+      "Chana Dal & Jaggery Pooranam (1.5 cups)",
+      "Cardamom",
+      "Ghee for cooking"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Obbattu / Holige.",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_137",
+    "title": "Hyderabadi Mirchi Ka Salan",
+    "cuisine": "South Indian",
+    "region": "South India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 15,
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": [
+      "Peanut Sesame Chili Gravy"
+    ],
+    "ingredients": [
+      "Large Green Chilies (8)",
+      "Roasted Peanut & Sesame paste (1/2 cup)",
+      "Tamarind pulp",
+      "Mustard tadka"
+    ],
+    "instructions": [
+      "Prepare authentic ingredients for Hyderabadi Mirchi Ka Salan.",
+      "Heat gingelly oil or ghee in pan; splutter mustard seeds, urad dal, and curry leaves.",
+      "Incorporate roasted spice pastes, tamarind, or ground rice batters.",
+      "Cook until aromatic, tender, or crispy depending on dish type.",
+      "Serve hot with authentic chutneys or gun powder."
+    ]
+  },
+  {
+    "id": "REC_138",
+    "title": "Paneer Butter Masala",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Rich Tomato Gravy"
+    ],
+    "ingredients": [
+      "Paneer cubes (300g)",
+      "Tomato Puree (2 cups)",
+      "Butter (3 tbsp)",
+      "Fresh Cream (3 tbsp)",
+      "Kasuri Methi",
+      "Garam Masala"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Paneer Butter Masala.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_139",
+    "title": "Dum Aloo Kashmiri",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 30,
+    "servings": 4,
+    "tags": [
+      "Fennel & Ginger Powder"
+    ],
+    "ingredients": [
+      "Baby Potatoes (500g fried)",
+      "Yogurt Gravy (1.5 cups)",
+      "Kashmiri Red Chili",
+      "Fennel Powder (1 tbsp)",
+      "Dry Ginger Saunth"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Dum Aloo Kashmiri.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_140",
+    "title": "Chana Masala",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": [
+      "Tangy Chickpea Curry"
+    ],
+    "ingredients": [
+      "Kabuli Chana (2 cups boiled)",
+      "Onions & Tomatoes (1 cup each)",
+      "Chana Masala Spices (2 tbsp)",
+      "Amchur (1 tsp)",
+      "Ghee"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Chana Masala.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_141",
+    "title": "Kadai Paneer",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Bell Pepper Wok"
+    ],
+    "ingredients": [
+      "Paneer cubes (250g)",
+      "Capsicum & Onion Chunks (1.5 cups)",
+      "Fresh Kadai Masala (2 tbsp)",
+      "Tomatoes (2 pureed)",
+      "Oil"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Kadai Paneer.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_142",
+    "title": "Matar Paneer",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Classic Home Style"
+    ],
+    "ingredients": [
+      "Paneer cubes (200g)",
+      "Green Peas (1 cup)",
+      "Onion-Tomato Paste (1.5 cups)",
+      "Garam Masala",
+      "Ghee"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Matar Paneer.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_143",
+    "title": "Aloo Paratha",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Stuffed Potato Bread"
+    ],
+    "ingredients": [
+      "Wheat Atta dough (2 cups)",
+      "Spiced Mashed Potato filling (1.5 cups)",
+      "Green Chilies & Cilantro",
+      "Butter/Ghee"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Aloo Paratha.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_144",
+    "title": "Dal Tadka",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Yellow Lentil Tempering"
+    ],
+    "ingredients": [
+      "Toor Dal (1 cup boiled)",
+      "Ghee (2 tbsp)",
+      "Garlic minced (1 tbsp)",
+      "Cumin seeds (1 tsp)",
+      "Dry Red Chilies & Hing"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Dal Tadka.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_145",
+    "title": "Jeera Rice",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 5,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Cumin Scented Rice"
+    ],
+    "ingredients": [
+      "Basmati Rice (2 cups)",
+      "Ghee (2 tbsp)",
+      "Cumin seeds (1 tbsp)",
+      "Whole Cardamom & Bay leaf"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Jeera Rice.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_146",
+    "title": "Veg Pulao",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Mild Spiced Rice"
+    ],
+    "ingredients": [
+      "Basmati Rice (2 cups)",
+      "Mixed Veggies (1.5 cups)",
+      "Ghee (2 tbsp)",
+      "Whole Spices",
+      "Fried Cashews"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Veg Pulao.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_147",
+    "title": "Lauki Kofta",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": [
+      "Bottle Gourd Dumplings"
+    ],
+    "ingredients": [
+      "Grated Lauki (2 cups)",
+      "Besan (1/2 cup)",
+      "Tomato-Onion Gravy (1.5 cups)",
+      "Ghee & Cream"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Lauki Kofta.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_148",
+    "title": "Bhindi Masala",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Spiced Okra Stir Fry"
+    ],
+    "ingredients": [
+      "Fresh Okra/Bhindi (400g sliced)",
+      "Onions (2 sliced)",
+      "Amchur (1 tsp)",
+      "Coriander powder (1 tbsp)",
+      "Oil"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Bhindi Masala.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_149",
+    "title": "Sev Tamatar Sabzi North",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10,
+    "servings": 3,
+    "tags": [
+      "Quick Tomato Gravy"
+    ],
+    "ingredients": [
+      "Ratlami Sev (1 cup)",
+      "Tomatoes chopped (3)",
+      "Ghee (2 tbsp)",
+      "Hing & Cumin",
+      "Spices"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Sev Tamatar Sabzi North.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_150",
+    "title": "Rajma Jammu",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 15,
+    "cook_time_mins": 35,
+    "servings": 4,
+    "tags": [
+      "Small Red Rajma"
+    ],
+    "ingredients": [
+      "Jammu Rajma (1.5 cups)",
+      "Anardana (1 tsp)",
+      "Ghee (2 tbsp)",
+      "Ginger-Garlic paste",
+      "Tomatoes"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Rajma Jammu.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_151",
+    "title": "Kathal Ki Sabzi",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": [
+      "Spiced Raw Jackfruit"
+    ],
+    "ingredients": [
+      "Raw Jackfruit cubes (500g fried)",
+      "Onions & Tomatoes (1.5 cups)",
+      "Garam Masala (1.5 tsp)",
+      "Mustard Oil"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Kathal Ki Sabzi.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_152",
+    "title": "Mushroom Do Pyaza",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Double Onion Mushroom"
+    ],
+    "ingredients": [
+      "Button Mushrooms (300g)",
+      "Onions diced & paste (2 cups)",
+      "Tomato Puree (1/2 cup)",
+      "Cream & Spices"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Mushroom Do Pyaza.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_153",
+    "title": "Corn Palak",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Sweet Corn Spinach"
+    ],
+    "ingredients": [
+      "Fresh Palak Puree (2 cups)",
+      "Boiled Sweet Corn (1 cup)",
+      "Garlic minced (1 tbsp)",
+      "Butter & Cream"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Corn Palak.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_154",
+    "title": "Kurkuri Bhindi",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 10,
+    "servings": 3,
+    "tags": [
+      "Crispy Besan Okra"
+    ],
+    "ingredients": [
+      "Okra thinly sliced lengthwise (300g)",
+      "Besan & Rice flour coat (4 tbsp)",
+      "Amchur & Chili powder",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Kurkuri Bhindi.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_155",
+    "title": "Dum Aloo Banarasi",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": [
+      "Tomato Cumin Potatoes"
+    ],
+    "ingredients": [
+      "Baby Potatoes (500g)",
+      "Tomato Puree (1.5 cups)",
+      "Roasted Cumin & Fennel",
+      "Mustard Oil"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Dum Aloo Banarasi.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_156",
+    "title": "Paneer Bhurji",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10,
+    "servings": 3,
+    "tags": [
+      "Scrambled Cottage Cheese"
+    ],
+    "ingredients": [
+      "Crumbled Paneer (250g)",
+      "Finely chopped Onions & Tomatoes (1 cup)",
+      "Green Chilies",
+      "Butter & Turmeric"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Paneer Bhurji.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_157",
+    "title": "Soya Chaap Gravy",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": [
+      "Mock Meat Curry"
+    ],
+    "ingredients": [
+      "Soya Chaap sticks (400g fried)",
+      "Rich Tomato-Onion Gravy (2 cups)",
+      "Cream & Kasuri Methi",
+      "Ghee"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Soya Chaap Gravy.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_158",
+    "title": "Malai Chaap",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "White Creamy Soya"
+    ],
+    "ingredients": [
+      "Soya Chaap (400g)",
+      "Cashew & Cream marinade",
+      "White Pepper & Cardamom",
+      "Butter grill"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Malai Chaap.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_159",
+    "title": "Bedmi Puri Aloo",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Spiced Lentil Bread & Curry"
+    ],
+    "ingredients": [
+      "Wheat Flour Bedmi dough (2 cups)",
+      "Coarse Urad Dal stuffing",
+      "Mathura Aloo Sabzi (2 cups)",
+      "Oil"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Bedmi Puri Aloo.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_160",
+    "title": "Chole Kulche",
+    "cuisine": "North Indian",
+    "region": "North India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Delhi Street Classic"
+    ],
+    "ingredients": [
+      "Matar/Chickpeas boiled (2 cups)",
+      "Butter Kulche breads (4)",
+      "Spicy Tangy Amchur Chutney",
+      "Onions & Lime"
+    ],
+    "instructions": [
+      "Prepare main ingredients for Chole Kulche.",
+      "Heat oil or ghee in pan, tempering with cumin, bay leaf, or garlic.",
+      "Add tomato-onion gravies and dry ground spices.",
+      "Simmer on medium flame until vegetables/paneer absorb flavors.",
+      "Garnish with chopped coriander and serve hot with Roti or Rice."
+    ]
+  },
+  {
+    "id": "REC_161",
+    "title": "Pav Bhaji",
+    "cuisine": "Street Food",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 20,
+    "cook_time_mins": 20,
+    "servings": 4,
+    "tags": [
+      "Mumbai Street Classic"
+    ],
+    "ingredients": [
+      "Boiled Veggie Mash (3 cups)",
+      "Pav Bhaji Masala (2 tbsp)",
+      "Butter (5 tbsp)",
+      "Soft Pav Breads (8)",
+      "Onions & Lime"
+    ],
+    "instructions": [
+      "Prepare crisp elements and spice chutneys for Pav Bhaji.",
+      "Flash fry or assemble ingredients rapidly on high heat.",
+      "Layer sweet, tangy, and spicy sauces with crispy toppings.",
+      "Garnish with nylon sev, cilantro, and fresh lemon juice.",
+      "Serve immediately for optimal crunch and flavor."
+    ]
+  },
+  {
+    "id": "REC_162",
+    "title": "Pani Puri / Golgappe",
+    "cuisine": "Street Food",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 25,
+    "cook_time_mins": 10,
+    "servings": 4,
+    "tags": [
+      "Tangy Water Puri"
+    ],
+    "ingredients": [
+      "Crispy Puris (30)",
+      "Spicy Mint Tangy Water (3 cups)",
+      "Sweet Tamarind Chutney",
+      "Boiled Potato Chickpea filling"
+    ],
+    "instructions": [
+      "Prepare crisp elements and spice chutneys for Pani Puri / Golgappe.",
+      "Flash fry or assemble ingredients rapidly on high heat.",
+      "Layer sweet, tangy, and spicy sauces with crispy toppings.",
+      "Garnish with nylon sev, cilantro, and fresh lemon juice.",
+      "Serve immediately for optimal crunch and flavor."
+    ]
+  },
+  {
+    "id": "REC_163",
+    "title": "Vada Pav",
+    "cuisine": "Street Food",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 20,
+    "cook_time_mins": 15,
+    "servings": 4,
+    "tags": [
+      "Mumbai Burger"
+    ],
+    "ingredients": [
+      "Ladi Pavs (4)",
+      "Spiced Potato Vadas (4 fried)",
+      "Garlic Dry Red Chutney",
+      "Green Chili fry"
+    ],
+    "instructions": [
+      "Prepare crisp elements and spice chutneys for Vada Pav.",
+      "Flash fry or assemble ingredients rapidly on high heat.",
+      "Layer sweet, tangy, and spicy sauces with crispy toppings.",
+      "Garnish with nylon sev, cilantro, and fresh lemon juice.",
+      "Serve immediately for optimal crunch and flavor."
+    ]
+  },
+  {
+    "id": "REC_164",
+    "title": "Sev Puri",
+    "cuisine": "Street Food",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 5,
+    "servings": 3,
+    "tags": [
+      "Crisp Flat Puri Chaat"
+    ],
+    "ingredients": [
+      "Flat Papdi Puris (20)",
+      "Fine Nylon Sev (1 cup)",
+      "Boiled Potato & Onions",
+      "Tamarind & Mint Chutney"
+    ],
+    "instructions": [
+      "Prepare crisp elements and spice chutneys for Sev Puri.",
+      "Flash fry or assemble ingredients rapidly on high heat.",
+      "Layer sweet, tangy, and spicy sauces with crispy toppings.",
+      "Garnish with nylon sev, cilantro, and fresh lemon juice.",
+      "Serve immediately for optimal crunch and flavor."
+    ]
+  },
+  {
+    "id": "REC_165",
+    "title": "Dahi Puri",
+    "cuisine": "Street Food",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 5,
+    "servings": 3,
+    "tags": [
+      "Sweet Yogurt Puri"
+    ],
+    "ingredients": [
+      "Puffed Puris (15)",
+      "Sweetened Thick Yogurt (1.5 cups)",
+      "Sev & Boiled Potato",
+      "Tangy Chutneys"
+    ],
+    "instructions": [
+      "Prepare crisp elements and spice chutneys for Dahi Puri.",
+      "Flash fry or assemble ingredients rapidly on high heat.",
+      "Layer sweet, tangy, and spicy sauces with crispy toppings.",
+      "Garnish with nylon sev, cilantro, and fresh lemon juice.",
+      "Serve immediately for optimal crunch and flavor."
+    ]
+  },
+  {
+    "id": "REC_166",
+    "title": "Bhel Puri",
+    "cuisine": "Street Food",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 5,
+    "servings": 3,
+    "tags": [
+      "Puffed Rice Mix"
+    ],
+    "ingredients": [
+      "Puffed Rice/Kurmura (3 cups)",
+      "Crispy Sev & Papdi",
+      "Onions, Tomatoes & Potato",
+      "Sweet & Spicy Chutneys"
+    ],
+    "instructions": [
+      "Prepare crisp elements and spice chutneys for Bhel Puri.",
+      "Flash fry or assemble ingredients rapidly on high heat.",
+      "Layer sweet, tangy, and spicy sauces with crispy toppings.",
+      "Garnish with nylon sev, cilantro, and fresh lemon juice.",
+      "Serve immediately for optimal crunch and flavor."
+    ]
+  },
+  {
+    "id": "REC_167",
+    "title": "Samosa Ragda Chaat",
+    "cuisine": "Street Food",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Samosa Chickpea Mash"
+    ],
+    "ingredients": [
+      "Crispy Samosas (4 crushed)",
+      "Hot White Peas Ragda Curry (2 cups)",
+      "Sweet & Mint Chutney",
+      "Sev & Onions"
+    ],
+    "instructions": [
+      "Prepare crisp elements and spice chutneys for Samosa Ragda Chaat.",
+      "Flash fry or assemble ingredients rapidly on high heat.",
+      "Layer sweet, tangy, and spicy sauces with crispy toppings.",
+      "Garnish with nylon sev, cilantro, and fresh lemon juice.",
+      "Serve immediately for optimal crunch and flavor."
+    ]
+  },
+  {
+    "id": "REC_168",
+    "title": "Aloo Tikki Chaat",
+    "cuisine": "Street Food",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 20,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Crispy Potato Patties"
+    ],
+    "ingredients": [
+      "Golden Potato Tikkis (4)",
+      "Sweet Yogurt (1 cup)",
+      "Tamarind & Mint Chutney",
+      "Roasted Cumin powder"
+    ],
+    "instructions": [
+      "Prepare crisp elements and spice chutneys for Aloo Tikki Chaat.",
+      "Flash fry or assemble ingredients rapidly on high heat.",
+      "Layer sweet, tangy, and spicy sauces with crispy toppings.",
+      "Garnish with nylon sev, cilantro, and fresh lemon juice.",
+      "Serve immediately for optimal crunch and flavor."
+    ]
+  },
+  {
+    "id": "REC_169",
+    "title": "Chole Bhature Street Style",
+    "cuisine": "Street Food",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 30,
+    "servings": 4,
+    "tags": [
+      "Puffed Bread & Chickpeas"
+    ],
+    "ingredients": [
+      "Spiced Dark Chole (2 cups)",
+      "Fluffy Fried Bhature (4)",
+      "Pickled Red Onions & Chilies"
+    ],
+    "instructions": [
+      "Prepare crisp elements and spice chutneys for Chole Bhature Street Style.",
+      "Flash fry or assemble ingredients rapidly on high heat.",
+      "Layer sweet, tangy, and spicy sauces with crispy toppings.",
+      "Garnish with nylon sev, cilantro, and fresh lemon juice.",
+      "Serve immediately for optimal crunch and flavor."
+    ]
+  },
+  {
+    "id": "REC_170",
+    "title": "Kathi Roll Chicken",
+    "cuisine": "Street Food",
+    "region": "Pan-India",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Kolkata Wrap"
+    ],
+    "ingredients": [
+      "Paratha Wraps (3)",
+      "Spiced Chicken Tikka filling (1.5 cups)",
+      "Sliced Onions & Lime Juice",
+      "Green Chutney"
+    ],
+    "instructions": [
+      "Prepare crisp elements and spice chutneys for Kathi Roll Chicken.",
+      "Flash fry or assemble ingredients rapidly on high heat.",
+      "Layer sweet, tangy, and spicy sauces with crispy toppings.",
+      "Garnish with nylon sev, cilantro, and fresh lemon juice.",
+      "Serve immediately for optimal crunch and flavor."
+    ]
+  },
+  {
+    "id": "REC_171",
+    "title": "Ram Ladoo",
+    "cuisine": "Street Food",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 4,
+    "tags": [
+      "Moong Dal Fritters"
+    ],
+    "ingredients": [
+      "Yellow Moong Dal batter (1.5 cups)",
+      "Grated Radish with leaves",
+      "Tangy Mint Chutney",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Prepare crisp elements and spice chutneys for Ram Ladoo.",
+      "Flash fry or assemble ingredients rapidly on high heat.",
+      "Layer sweet, tangy, and spicy sauces with crispy toppings.",
+      "Garnish with nylon sev, cilantro, and fresh lemon juice.",
+      "Serve immediately for optimal crunch and flavor."
+    ]
+  },
+  {
+    "id": "REC_172",
+    "title": "Dabeli",
+    "cuisine": "Street Food",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 20,
+    "cook_time_mins": 10,
+    "servings": 4,
+    "tags": [
+      "Kutchi Street Bun"
+    ],
+    "ingredients": [
+      "Pav Breads (4)",
+      "Spiced Potato Dabeli Mash",
+      "Masala Peanuts & Pomegranate",
+      "Garlic Chutney"
+    ],
+    "instructions": [
+      "Prepare crisp elements and spice chutneys for Dabeli.",
+      "Flash fry or assemble ingredients rapidly on high heat.",
+      "Layer sweet, tangy, and spicy sauces with crispy toppings.",
+      "Garnish with nylon sev, cilantro, and fresh lemon juice.",
+      "Serve immediately for optimal crunch and flavor."
+    ]
+  },
+  {
+    "id": "REC_173",
+    "title": "Street Chowmein",
+    "cuisine": "Street Food",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10,
+    "servings": 3,
+    "tags": [
+      "Desi Indo Noodle"
+    ],
+    "ingredients": [
+      "Boiled Noodles (3 cups)",
+      "Shredded Cabbage, Capsicum, Carrots",
+      "Soy & Chili Sauce",
+      "Garlic & Vinegar"
+    ],
+    "instructions": [
+      "Prepare crisp elements and spice chutneys for Street Chowmein.",
+      "Flash fry or assemble ingredients rapidly on high heat.",
+      "Layer sweet, tangy, and spicy sauces with crispy toppings.",
+      "Garnish with nylon sev, cilantro, and fresh lemon juice.",
+      "Serve immediately for optimal crunch and flavor."
+    ]
+  },
+  {
+    "id": "REC_174",
+    "title": "Steamed Veg Momos",
+    "cuisine": "Street Food",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 25,
+    "cook_time_mins": 15,
+    "servings": 4,
+    "tags": [
+      "Tibetan Dumplings"
+    ],
+    "ingredients": [
+      "Maida Momo Wrappers (20)",
+      "Finely Cabbage-Carrot filling (2 cups)",
+      "Fiery Red Chili Sesame Chutney"
+    ],
+    "instructions": [
+      "Prepare crisp elements and spice chutneys for Steamed Veg Momos.",
+      "Flash fry or assemble ingredients rapidly on high heat.",
+      "Layer sweet, tangy, and spicy sauces with crispy toppings.",
+      "Garnish with nylon sev, cilantro, and fresh lemon juice.",
+      "Serve immediately for optimal crunch and flavor."
+    ]
+  },
+  {
+    "id": "REC_175",
+    "title": "Mirchi Bhajji",
+    "cuisine": "Street Food",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Stuffed Chili Fritters"
+    ],
+    "ingredients": [
+      "Large Green Chilies (6)",
+      "Tangy Ajwain Stuffing",
+      "Besan Coating Batter",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Prepare crisp elements and spice chutneys for Mirchi Bhajji.",
+      "Flash fry or assemble ingredients rapidly on high heat.",
+      "Layer sweet, tangy, and spicy sauces with crispy toppings.",
+      "Garnish with nylon sev, cilantro, and fresh lemon juice.",
+      "Serve immediately for optimal crunch and flavor."
+    ]
+  },
+  {
+    "id": "REC_176",
+    "title": "Papdi Chaat",
+    "cuisine": "Street Food",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 5,
+    "servings": 3,
+    "tags": [
+      "Wafer Crisp Chaat"
+    ],
+    "ingredients": [
+      "Crispy Flour Papdis (20)",
+      "Boiled Potatoes & Chickpeas",
+      "Sweet Yogurt & Chutneys",
+      "Chaat Masala"
+    ],
+    "instructions": [
+      "Prepare crisp elements and spice chutneys for Papdi Chaat.",
+      "Flash fry or assemble ingredients rapidly on high heat.",
+      "Layer sweet, tangy, and spicy sauces with crispy toppings.",
+      "Garnish with nylon sev, cilantro, and fresh lemon juice.",
+      "Serve immediately for optimal crunch and flavor."
+    ]
+  },
+  {
+    "id": "REC_177",
+    "title": "Bread Pakora",
+    "cuisine": "Street Food",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10,
+    "servings": 3,
+    "tags": [
+      "Stuffed Bread Fritter"
+    ],
+    "ingredients": [
+      "Bread Slices triangles (4)",
+      "Spiced Potato Masala",
+      "Besan Coating Batter",
+      "Green Chutney"
+    ],
+    "instructions": [
+      "Prepare crisp elements and spice chutneys for Bread Pakora.",
+      "Flash fry or assemble ingredients rapidly on high heat.",
+      "Layer sweet, tangy, and spicy sauces with crispy toppings.",
+      "Garnish with nylon sev, cilantro, and fresh lemon juice.",
+      "Serve immediately for optimal crunch and flavor."
+    ]
+  },
+  {
+    "id": "REC_178",
+    "title": "Bun Maska Chai",
+    "cuisine": "Street Food",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 5,
+    "cook_time_mins": 5,
+    "servings": 2,
+    "tags": [
+      "Irani Cafe Classic"
+    ],
+    "ingredients": [
+      "Soft Sweet Bun",
+      "Generous Salted Butter",
+      "Hot Cardamom Cutting Chai"
+    ],
+    "instructions": [
+      "Prepare crisp elements and spice chutneys for Bun Maska Chai.",
+      "Flash fry or assemble ingredients rapidly on high heat.",
+      "Layer sweet, tangy, and spicy sauces with crispy toppings.",
+      "Garnish with nylon sev, cilantro, and fresh lemon juice.",
+      "Serve immediately for optimal crunch and flavor."
+    ]
+  },
+  {
+    "id": "REC_179",
+    "title": "Misal Pav",
+    "cuisine": "Street Food",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 25,
+    "servings": 4,
+    "tags": [
+      "Spicy Maharashtra Sprouts"
+    ],
+    "ingredients": [
+      "Sprouted Moth Bean Usal Curry (2 cups)",
+      "Crispy Farsan Sev Topping",
+      "Ladi Pavs (4)",
+      "Fiery Kat Gravy"
+    ],
+    "instructions": [
+      "Prepare crisp elements and spice chutneys for Misal Pav.",
+      "Flash fry or assemble ingredients rapidly on high heat.",
+      "Layer sweet, tangy, and spicy sauces with crispy toppings.",
+      "Garnish with nylon sev, cilantro, and fresh lemon juice.",
+      "Serve immediately for optimal crunch and flavor."
+    ]
+  },
+  {
+    "id": "REC_180",
+    "title": "Kanda Bhajji",
+    "cuisine": "Street Food",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10,
+    "servings": 3,
+    "tags": [
+      "Crispy Onion Fritters"
+    ],
+    "ingredients": [
+      "Sliced Red Onions (3 cups)",
+      "Besan & Carom seeds coat",
+      "Green Chilies",
+      "Oil for deep frying"
+    ],
+    "instructions": [
+      "Prepare crisp elements and spice chutneys for Kanda Bhajji.",
+      "Flash fry or assemble ingredients rapidly on high heat.",
+      "Layer sweet, tangy, and spicy sauces with crispy toppings.",
+      "Garnish with nylon sev, cilantro, and fresh lemon juice.",
+      "Serve immediately for optimal crunch and flavor."
+    ]
+  },
+  {
+    "id": "REC_181",
+    "title": "Chilli Paneer Dry",
+    "cuisine": "Indo Chinese",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Crispy Wok Starter"
+    ],
+    "ingredients": [
+      "Paneer cubes (250g)",
+      "Cornflour batter",
+      "Capsicum & Onion Chunks (1.5 cups)",
+      "Soy & Chili Sauce",
+      "Spring Onions"
+    ],
+    "instructions": [
+      "Coat main ingredients for Chilli Paneer Dry in light cornflour slurry and flash fry until crispy.",
+      "Heat smoking hot wok with oil, tossing minced garlic, ginger, and green chilies.",
+      "Pour soy sauce, green chili sauce, and vinegar over high heat.",
+      "Toss crispy fried items or noodles rapidly into smoking glaze.",
+      "Garnish generously with fresh spring onion greens and serve piping hot."
+    ]
+  },
+  {
+    "id": "REC_182",
+    "title": "Hakka Noodles",
+    "cuisine": "Indo Chinese",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10,
+    "servings": 3,
+    "tags": [
+      "Classic Stir Fry"
+    ],
+    "ingredients": [
+      "Boiled Hakka Noodles (3 cups)",
+      "Shredded Veggies (2 cups)",
+      "Garlic minced",
+      "Soy Sauce & Vinegar",
+      "Sesame Oil"
+    ],
+    "instructions": [
+      "Coat main ingredients for Hakka Noodles in light cornflour slurry and flash fry until crispy.",
+      "Heat smoking hot wok with oil, tossing minced garlic, ginger, and green chilies.",
+      "Pour soy sauce, green chili sauce, and vinegar over high heat.",
+      "Toss crispy fried items or noodles rapidly into smoking glaze.",
+      "Garnish generously with fresh spring onion greens and serve piping hot."
+    ]
+  },
+  {
+    "id": "REC_183",
+    "title": "Schezwan Fried Rice",
+    "cuisine": "Indo Chinese",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 12,
+    "servings": 3,
+    "tags": [
+      "Spicy Wok Rice"
+    ],
+    "ingredients": [
+      "Cooked Basmati Rice (3 cups)",
+      "Schezwan Sauce (3 tbsp)",
+      "Diced Veggies (1.5 cups)",
+      "Spring Onions",
+      "Garlic"
+    ],
+    "instructions": [
+      "Coat main ingredients for Schezwan Fried Rice in light cornflour slurry and flash fry until crispy.",
+      "Heat smoking hot wok with oil, tossing minced garlic, ginger, and green chilies.",
+      "Pour soy sauce, green chili sauce, and vinegar over high heat.",
+      "Toss crispy fried items or noodles rapidly into smoking glaze.",
+      "Garnish generously with fresh spring onion greens and serve piping hot."
+    ]
+  },
+  {
+    "id": "REC_184",
+    "title": "Veg Manchurian Gravy",
+    "cuisine": "Indo Chinese",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 15,
+    "servings": 4,
+    "tags": [
+      "Grated Veg Balls"
+    ],
+    "ingredients": [
+      "Grated Cabbage & Carrot Balls (15 fried)",
+      "Manchurian Soy Gravy (2 cups)",
+      "Spring Onions",
+      "Garlic & Ginger"
+    ],
+    "instructions": [
+      "Coat main ingredients for Veg Manchurian Gravy in light cornflour slurry and flash fry until crispy.",
+      "Heat smoking hot wok with oil, tossing minced garlic, ginger, and green chilies.",
+      "Pour soy sauce, green chili sauce, and vinegar over high heat.",
+      "Toss crispy fried items or noodles rapidly into smoking glaze.",
+      "Garnish generously with fresh spring onion greens and serve piping hot."
+    ]
+  },
+  {
+    "id": "REC_185",
+    "title": "Chicken Manchurian",
+    "cuisine": "Indo Chinese",
+    "region": "Pan-India",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 15,
+    "servings": 4,
+    "tags": [
+      "Crispy Chicken Balls"
+    ],
+    "ingredients": [
+      "Minced Chicken Balls (15 fried)",
+      "Dark Soy Garlic Sauce",
+      "Green Chilies",
+      "Spring Onions"
+    ],
+    "instructions": [
+      "Coat main ingredients for Chicken Manchurian in light cornflour slurry and flash fry until crispy.",
+      "Heat smoking hot wok with oil, tossing minced garlic, ginger, and green chilies.",
+      "Pour soy sauce, green chili sauce, and vinegar over high heat.",
+      "Toss crispy fried items or noodles rapidly into smoking glaze.",
+      "Garnish generously with fresh spring onion greens and serve piping hot."
+    ]
+  },
+  {
+    "id": "REC_186",
+    "title": "Chilli Chicken Dry",
+    "cuisine": "Indo Chinese",
+    "region": "Pan-India",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Wok Fried Chicken"
+    ],
+    "ingredients": [
+      "Boneless Chicken bites (400g fried)",
+      "Green Capsicum & Onions",
+      "Soy & Green Chili Sauce",
+      "Garlic"
+    ],
+    "instructions": [
+      "Coat main ingredients for Chilli Chicken Dry in light cornflour slurry and flash fry until crispy.",
+      "Heat smoking hot wok with oil, tossing minced garlic, ginger, and green chilies.",
+      "Pour soy sauce, green chili sauce, and vinegar over high heat.",
+      "Toss crispy fried items or noodles rapidly into smoking glaze.",
+      "Garnish generously with fresh spring onion greens and serve piping hot."
+    ]
+  },
+  {
+    "id": "REC_187",
+    "title": "Honey Chilli Potato",
+    "cuisine": "Indo Chinese",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Crispy Sweet & Spicy"
+    ],
+    "ingredients": [
+      "Crispy Potato Fries (300g)",
+      "Honey (2 tbsp)",
+      "Red Chili Sauce (2 tbsp)",
+      "Sesame Seeds",
+      "Spring Onions"
+    ],
+    "instructions": [
+      "Coat main ingredients for Honey Chilli Potato in light cornflour slurry and flash fry until crispy.",
+      "Heat smoking hot wok with oil, tossing minced garlic, ginger, and green chilies.",
+      "Pour soy sauce, green chili sauce, and vinegar over high heat.",
+      "Toss crispy fried items or noodles rapidly into smoking glaze.",
+      "Garnish generously with fresh spring onion greens and serve piping hot."
+    ]
+  },
+  {
+    "id": "REC_188",
+    "title": "Gobi Manchurian Dry",
+    "cuisine": "Indo Chinese",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Crispy Cauliflower"
+    ],
+    "ingredients": [
+      "Cauliflower Florets (300g fried)",
+      "Garlic & Soy Glaze",
+      "Green Chilies",
+      "Spring Onions"
+    ],
+    "instructions": [
+      "Coat main ingredients for Gobi Manchurian Dry in light cornflour slurry and flash fry until crispy.",
+      "Heat smoking hot wok with oil, tossing minced garlic, ginger, and green chilies.",
+      "Pour soy sauce, green chili sauce, and vinegar over high heat.",
+      "Toss crispy fried items or noodles rapidly into smoking glaze.",
+      "Garnish generously with fresh spring onion greens and serve piping hot."
+    ]
+  },
+  {
+    "id": "REC_189",
+    "title": "Crispy Corn Pepper Salt",
+    "cuisine": "Indo Chinese",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10,
+    "servings": 3,
+    "tags": [
+      "Crispy Sweet Corn"
+    ],
+    "ingredients": [
+      "Boiled Sweet Corn (2 cups)",
+      "Cornflour Coat",
+      "Black Pepper & Crushed Garlic",
+      "Spring Onions"
+    ],
+    "instructions": [
+      "Coat main ingredients for Crispy Corn Pepper Salt in light cornflour slurry and flash fry until crispy.",
+      "Heat smoking hot wok with oil, tossing minced garlic, ginger, and green chilies.",
+      "Pour soy sauce, green chili sauce, and vinegar over high heat.",
+      "Toss crispy fried items or noodles rapidly into smoking glaze.",
+      "Garnish generously with fresh spring onion greens and serve piping hot."
+    ]
+  },
+  {
+    "id": "REC_190",
+    "title": "Veg Spring Rolls",
+    "cuisine": "Indo Chinese",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 15,
+    "servings": 4,
+    "tags": [
+      "Crisp Stuffed Roll"
+    ],
+    "ingredients": [
+      "Spring Roll Wrappers (8)",
+      "Glass Noodle & Veggie filling",
+      "Sweet Chili Dip",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Coat main ingredients for Veg Spring Rolls in light cornflour slurry and flash fry until crispy.",
+      "Heat smoking hot wok with oil, tossing minced garlic, ginger, and green chilies.",
+      "Pour soy sauce, green chili sauce, and vinegar over high heat.",
+      "Toss crispy fried items or noodles rapidly into smoking glaze.",
+      "Garnish generously with fresh spring onion greens and serve piping hot."
+    ]
+  },
+  {
+    "id": "REC_191",
+    "title": "Hot and Sour Soup",
+    "cuisine": "Indo Chinese",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10,
+    "servings": 3,
+    "tags": [
+      "Tangy Spicy Soup"
+    ],
+    "ingredients": [
+      "Shredded Mushrooms & Veggies (1.5 cups)",
+      "Soy Sauce & Vinegar",
+      "Black Pepper",
+      "Cornflour Thickener"
+    ],
+    "instructions": [
+      "Coat main ingredients for Hot and Sour Soup in light cornflour slurry and flash fry until crispy.",
+      "Heat smoking hot wok with oil, tossing minced garlic, ginger, and green chilies.",
+      "Pour soy sauce, green chili sauce, and vinegar over high heat.",
+      "Toss crispy fried items or noodles rapidly into smoking glaze.",
+      "Garnish generously with fresh spring onion greens and serve piping hot."
+    ]
+  },
+  {
+    "id": "REC_192",
+    "title": "Manchow Soup",
+    "cuisine": "Indo Chinese",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10,
+    "servings": 3,
+    "tags": [
+      "Crispy Noodle Soup"
+    ],
+    "ingredients": [
+      "Vegetable Broth (3 cups)",
+      "Finely Diced Veggies",
+      "Crispy Fried Noodles topping",
+      "Soy Sauce & Garlic"
+    ],
+    "instructions": [
+      "Coat main ingredients for Manchow Soup in light cornflour slurry and flash fry until crispy.",
+      "Heat smoking hot wok with oil, tossing minced garlic, ginger, and green chilies.",
+      "Pour soy sauce, green chili sauce, and vinegar over high heat.",
+      "Toss crispy fried items or noodles rapidly into smoking glaze.",
+      "Garnish generously with fresh spring onion greens and serve piping hot."
+    ]
+  },
+  {
+    "id": "REC_193",
+    "title": "Schezwan Hakka Noodles",
+    "cuisine": "Indo Chinese",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10,
+    "servings": 3,
+    "tags": [
+      "Fiery Red Noodles"
+    ],
+    "ingredients": [
+      "Hakka Noodles (3 cups)",
+      "House Schezwan Sauce (3 tbsp)",
+      "Garlic juliennes",
+      "Capsicum & Cabbage"
+    ],
+    "instructions": [
+      "Coat main ingredients for Schezwan Hakka Noodles in light cornflour slurry and flash fry until crispy.",
+      "Heat smoking hot wok with oil, tossing minced garlic, ginger, and green chilies.",
+      "Pour soy sauce, green chili sauce, and vinegar over high heat.",
+      "Toss crispy fried items or noodles rapidly into smoking glaze.",
+      "Garnish generously with fresh spring onion greens and serve piping hot."
+    ]
+  },
+  {
+    "id": "REC_194",
+    "title": "American Chop Suey",
+    "cuisine": "Indo Chinese",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 20,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Crispy Noodle Sweet Gravy"
+    ],
+    "ingredients": [
+      "Crispy Deep Fried Noodles (2 cups)",
+      "Sweet & Sour Tomato Gravy",
+      "Mixed Veggies",
+      "Fried Egg optional"
+    ],
+    "instructions": [
+      "Coat main ingredients for American Chop Suey in light cornflour slurry and flash fry until crispy.",
+      "Heat smoking hot wok with oil, tossing minced garlic, ginger, and green chilies.",
+      "Pour soy sauce, green chili sauce, and vinegar over high heat.",
+      "Toss crispy fried items or noodles rapidly into smoking glaze.",
+      "Garnish generously with fresh spring onion greens and serve piping hot."
+    ]
+  },
+  {
+    "id": "REC_195",
+    "title": "Chilli Mushroom",
+    "cuisine": "Indo Chinese",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 12,
+    "servings": 3,
+    "tags": [
+      "Wok Mushrooms"
+    ],
+    "ingredients": [
+      "Button Mushrooms (250g fried)",
+      "Capsicum & Garlic",
+      "Dark Soy & Chili Sauce",
+      "Spring Onions"
+    ],
+    "instructions": [
+      "Coat main ingredients for Chilli Mushroom in light cornflour slurry and flash fry until crispy.",
+      "Heat smoking hot wok with oil, tossing minced garlic, ginger, and green chilies.",
+      "Pour soy sauce, green chili sauce, and vinegar over high heat.",
+      "Toss crispy fried items or noodles rapidly into smoking glaze.",
+      "Garnish generously with fresh spring onion greens and serve piping hot."
+    ]
+  },
+  {
+    "id": "REC_196",
+    "title": "Dragon Chicken",
+    "cuisine": "Indo Chinese",
+    "region": "Pan-India",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Medium",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15,
+    "servings": 3,
+    "tags": [
+      "Cashew Chili Chicken"
+    ],
+    "ingredients": [
+      "Chicken Strips (400g fried)",
+      "Fried Cashew Nuts",
+      "Fiery Red Chili Paste",
+      "Capsicum"
+    ],
+    "instructions": [
+      "Coat main ingredients for Dragon Chicken in light cornflour slurry and flash fry until crispy.",
+      "Heat smoking hot wok with oil, tossing minced garlic, ginger, and green chilies.",
+      "Pour soy sauce, green chili sauce, and vinegar over high heat.",
+      "Toss crispy fried items or noodles rapidly into smoking glaze.",
+      "Garnish generously with fresh spring onion greens and serve piping hot."
+    ]
+  },
+  {
+    "id": "REC_197",
+    "title": "Chilli Fish",
+    "cuisine": "Indo Chinese",
+    "region": "Pan-India",
+    "diet_type": "Non-Veg",
+    "type": "Non-Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 15,
+    "cook_time_mins": 12,
+    "servings": 3,
+    "tags": [
+      "Fish Cubes Glaze"
+    ],
+    "ingredients": [
+      "Bhetki Fish Cubes (350g fried)",
+      "Garlic & Soy Sauce",
+      "Green Chilies",
+      "Spring Onions"
+    ],
+    "instructions": [
+      "Coat main ingredients for Chilli Fish in light cornflour slurry and flash fry until crispy.",
+      "Heat smoking hot wok with oil, tossing minced garlic, ginger, and green chilies.",
+      "Pour soy sauce, green chili sauce, and vinegar over high heat.",
+      "Toss crispy fried items or noodles rapidly into smoking glaze.",
+      "Garnish generously with fresh spring onion greens and serve piping hot."
+    ]
+  },
+  {
+    "id": "REC_198",
+    "title": "Singapore Noodles",
+    "cuisine": "Indo Chinese",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10,
+    "servings": 3,
+    "tags": [
+      "Curry Powder Noodles"
+    ],
+    "ingredients": [
+      "Thin Rice Vermicelli Noodles (3 cups)",
+      "Madras Curry Powder (1 tsp)",
+      "Shredded Veggies",
+      "Soy Sauce"
+    ],
+    "instructions": [
+      "Coat main ingredients for Singapore Noodles in light cornflour slurry and flash fry until crispy.",
+      "Heat smoking hot wok with oil, tossing minced garlic, ginger, and green chilies.",
+      "Pour soy sauce, green chili sauce, and vinegar over high heat.",
+      "Toss crispy fried items or noodles rapidly into smoking glaze.",
+      "Garnish generously with fresh spring onion greens and serve piping hot."
+    ]
+  },
+  {
+    "id": "REC_199",
+    "title": "Veg Fried Rice",
+    "cuisine": "Indo Chinese",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10,
+    "servings": 3,
+    "tags": [
+      "Classic White Fried Rice"
+    ],
+    "ingredients": [
+      "Cooked Basmati Rice (3 cups)",
+      "Finely Diced Carrots & Beans",
+      "White Pepper",
+      "Soy Sauce & Spring Onions"
+    ],
+    "instructions": [
+      "Coat main ingredients for Veg Fried Rice in light cornflour slurry and flash fry until crispy.",
+      "Heat smoking hot wok with oil, tossing minced garlic, ginger, and green chilies.",
+      "Pour soy sauce, green chili sauce, and vinegar over high heat.",
+      "Toss crispy fried items or noodles rapidly into smoking glaze.",
+      "Garnish generously with fresh spring onion greens and serve piping hot."
+    ]
+  },
+  {
+    "id": "REC_200",
+    "title": "Garlic Butter Noodles",
+    "cuisine": "Indo Chinese",
+    "region": "Pan-India",
+    "diet_type": "Veg",
+    "type": "Veg",
+    "difficulty": "Easy",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10,
+    "servings": 3,
+    "tags": [
+      "Garlic Glazed Noodles"
+    ],
+    "ingredients": [
+      "Boiled Flat Noodles (3 cups)",
+      "Minced Garlic (2 tbsp)",
+      "Butter (3 tbsp)",
+      "Soy Sauce & Chili Flakes"
+    ],
+    "instructions": [
+      "Coat main ingredients for Garlic Butter Noodles in light cornflour slurry and flash fry until crispy.",
+      "Heat smoking hot wok with oil, tossing minced garlic, ginger, and green chilies.",
+      "Pour soy sauce, green chili sauce, and vinegar over high heat.",
+      "Toss crispy fried items or noodles rapidly into smoking glaze.",
+      "Garnish generously with fresh spring onion greens and serve piping hot."
+    ]
+  }
+]
